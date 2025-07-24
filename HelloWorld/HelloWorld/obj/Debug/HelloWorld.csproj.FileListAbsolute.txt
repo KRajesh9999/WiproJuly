@@ -1,8 +1,0 @@
-E:\WiproJuly\Day1\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
-E:\WiproJuly\Day1\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
-E:\WiproJuly\Day1\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
-E:\WiproJuly\Day1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
-E:\WiproJuly\Day1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
-E:\WiproJuly\Day1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
-E:\WiproJuly\Day1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
-E:\WiproJuly\Day1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe.config
