@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\WiproJuly\\Day4\\ExtensionLibraryMain\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E452A04C-1FE0-46B8-8B7E-EE4FE92E77E5}|ExtensionLibraryMain\\ExtensionLibraryMain.csproj|e:\\wiprojuly\\day4\\extensionlibrarymain\\extensionlibrarymain\\extensionlibmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E452A04C-1FE0-46B8-8B7E-EE4FE92E77E5}|ExtensionLibraryMain\\ExtensionLibraryMain.csproj|solutionrelative:extensionlibrarymain\\extensionlibmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E452A04C-1FE0-46B8-8B7E-EE4FE92E77E5}|ExtensionLibraryMain\\ExtensionLibraryMain.csproj|e:\\wiprojuly\\day4\\extensionlibrarymain\\extensionlibrarymain\\extensionaddmissingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E452A04C-1FE0-46B8-8B7E-EE4FE92E77E5}|ExtensionLibraryMain\\ExtensionLibraryMain.csproj|solutionrelative:extensionlibrarymain\\extensionaddmissingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExtensionAddMissingData.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day4\\ExtensionLibraryMain\\ExtensionLibraryMain\\ExtensionAddMissingData.cs",
+              "RelativeDocumentMoniker": "ExtensionLibraryMain\\ExtensionAddMissingData.cs",
+              "ToolTip": "E:\\WiproJuly\\Day4\\ExtensionLibraryMain\\ExtensionLibraryMain\\ExtensionAddMissingData.cs",
+              "RelativeToolTip": "ExtensionLibraryMain\\ExtensionAddMissingData.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:16:23.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExtensionLibMain.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day4\\ExtensionLibraryMain\\ExtensionLibraryMain\\ExtensionLibMain.cs",
+              "RelativeDocumentMoniker": "ExtensionLibraryMain\\ExtensionLibMain.cs",
+              "ToolTip": "E:\\WiproJuly\\Day4\\ExtensionLibraryMain\\ExtensionLibraryMain\\ExtensionLibMain.cs",
+              "RelativeToolTip": "ExtensionLibraryMain\\ExtensionLibMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:12:04.312Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

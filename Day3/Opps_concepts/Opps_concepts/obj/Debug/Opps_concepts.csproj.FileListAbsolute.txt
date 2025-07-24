@@ -1,0 +1,8 @@
+E:\WiproJuly\Day3\Opps_concepts\Opps_concepts\bin\Debug\Opps_concepts.exe.config
+E:\WiproJuly\Day3\Opps_concepts\Opps_concepts\bin\Debug\Opps_concepts.exe
+E:\WiproJuly\Day3\Opps_concepts\Opps_concepts\bin\Debug\Opps_concepts.pdb
+E:\WiproJuly\Day3\Opps_concepts\Opps_concepts\obj\Debug\Opps_concepts.csproj.AssemblyReference.cache
+E:\WiproJuly\Day3\Opps_concepts\Opps_concepts\obj\Debug\Opps_concepts.csproj.CoreCompileInputs.cache
+E:\WiproJuly\Day3\Opps_concepts\Opps_concepts\obj\Debug\Opps_concepts.exe
+E:\WiproJuly\Day3\Opps_concepts\Opps_concepts\obj\Debug\Opps_concepts.pdb
+E:\WiproJuly\Day3\Opps_concepts\Opps_concepts\obj\Debug\Opps_concepts.exe.config

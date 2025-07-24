@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\WiproJuly\\Day3\\AccessSpecifierFirstLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F50553A-6535-4DF0-AC28-D1940663C640}|AccessSpecifierFirstLibrary\\AccessSpecifierFirstLibrary.csproj|e:\\wiprojuly\\day3\\accessspecifierfirstlibrary\\accessspecifierfirstlibrary\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F50553A-6535-4DF0-AC28-D1940663C640}|AccessSpecifierFirstLibrary\\AccessSpecifierFirstLibrary.csproj|solutionrelative:accessspecifierfirstlibrary\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F50553A-6535-4DF0-AC28-D1940663C640}|AccessSpecifierFirstLibrary\\AccessSpecifierFirstLibrary.csproj|e:\\wiprojuly\\day3\\accessspecifierfirstlibrary\\accessspecifierfirstlibrary\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F50553A-6535-4DF0-AC28-D1940663C640}|AccessSpecifierFirstLibrary\\AccessSpecifierFirstLibrary.csproj|solutionrelative:accessspecifierfirstlibrary\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F50553A-6535-4DF0-AC28-D1940663C640}|AccessSpecifierFirstLibrary\\AccessSpecifierFirstLibrary.csproj|e:\\wiprojuly\\day3\\accessspecifierfirstlibrary\\accessspecifierfirstlibrary\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F50553A-6535-4DF0-AC28-D1940663C640}|AccessSpecifierFirstLibrary\\AccessSpecifierFirstLibrary.csproj|solutionrelative:accessspecifierfirstlibrary\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F50553A-6535-4DF0-AC28-D1940663C640}|AccessSpecifierFirstLibrary\\AccessSpecifierFirstLibrary.csproj|e:\\wiprojuly\\day3\\accessspecifierfirstlibrary\\accessspecifierfirstlibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F50553A-6535-4DF0-AC28-D1940663C640}|AccessSpecifierFirstLibrary\\AccessSpecifierFirstLibrary.csproj|solutionrelative:accessspecifierfirstlibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Data.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day3\\AccessSpecifierFirstLibrary\\AccessSpecifierFirstLibrary\\Data.cs",
+              "RelativeDocumentMoniker": "AccessSpecifierFirstLibrary\\Data.cs",
+              "ToolTip": "E:\\WiproJuly\\Day3\\AccessSpecifierFirstLibrary\\AccessSpecifierFirstLibrary\\Data.cs",
+              "RelativeToolTip": "AccessSpecifierFirstLibrary\\Data.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T09:58:26.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day3\\AccessSpecifierFirstLibrary\\AccessSpecifierFirstLibrary\\Test.cs",
+              "RelativeDocumentMoniker": "AccessSpecifierFirstLibrary\\Test.cs",
+              "ToolTip": "E:\\WiproJuly\\Day3\\AccessSpecifierFirstLibrary\\AccessSpecifierFirstLibrary\\Test.cs",
+              "RelativeToolTip": "AccessSpecifierFirstLibrary\\Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T09:57:46.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Demo.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day3\\AccessSpecifierFirstLibrary\\AccessSpecifierFirstLibrary\\Demo.cs",
+              "RelativeDocumentMoniker": "AccessSpecifierFirstLibrary\\Demo.cs",
+              "ToolTip": "E:\\WiproJuly\\Day3\\AccessSpecifierFirstLibrary\\AccessSpecifierFirstLibrary\\Demo.cs",
+              "RelativeToolTip": "AccessSpecifierFirstLibrary\\Demo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T09:56:52.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day3\\AccessSpecifierFirstLibrary\\AccessSpecifierFirstLibrary\\Program.cs",
+              "RelativeDocumentMoniker": "AccessSpecifierFirstLibrary\\Program.cs",
+              "ToolTip": "E:\\WiproJuly\\Day3\\AccessSpecifierFirstLibrary\\AccessSpecifierFirstLibrary\\Program.cs",
+              "RelativeToolTip": "AccessSpecifierFirstLibrary\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T09:56:23.204Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

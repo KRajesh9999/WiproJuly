@@ -1,0 +1,7 @@
+E:\WiproJuly\Day4\InterfaceClassEx1\InterfaceClassEx1\bin\Debug\InterfaceClassEx1.exe.config
+E:\WiproJuly\Day4\InterfaceClassEx1\InterfaceClassEx1\bin\Debug\InterfaceClassEx1.exe
+E:\WiproJuly\Day4\InterfaceClassEx1\InterfaceClassEx1\bin\Debug\InterfaceClassEx1.pdb
+E:\WiproJuly\Day4\InterfaceClassEx1\InterfaceClassEx1\obj\Debug\InterfaceClassEx1.csproj.AssemblyReference.cache
+E:\WiproJuly\Day4\InterfaceClassEx1\InterfaceClassEx1\obj\Debug\InterfaceClassEx1.csproj.CoreCompileInputs.cache
+E:\WiproJuly\Day4\InterfaceClassEx1\InterfaceClassEx1\obj\Debug\InterfaceClassEx1.exe
+E:\WiproJuly\Day4\InterfaceClassEx1\InterfaceClassEx1\obj\Debug\InterfaceClassEx1.pdb

@@ -1,2 +1,0 @@
-# WiproJuly
-PreSkilling

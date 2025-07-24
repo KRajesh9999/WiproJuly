@@ -1,0 +1,7 @@
+E:\WiproJuly\Day2\BoxTest\BoxTest\bin\Debug\BoxTest.exe.config
+E:\WiproJuly\Day2\BoxTest\BoxTest\bin\Debug\BoxTest.exe
+E:\WiproJuly\Day2\BoxTest\BoxTest\bin\Debug\BoxTest.pdb
+E:\WiproJuly\Day2\BoxTest\BoxTest\obj\Debug\BoxTest.csproj.AssemblyReference.cache
+E:\WiproJuly\Day2\BoxTest\BoxTest\obj\Debug\BoxTest.csproj.CoreCompileInputs.cache
+E:\WiproJuly\Day2\BoxTest\BoxTest\obj\Debug\BoxTest.exe
+E:\WiproJuly\Day2\BoxTest\BoxTest\obj\Debug\BoxTest.pdb

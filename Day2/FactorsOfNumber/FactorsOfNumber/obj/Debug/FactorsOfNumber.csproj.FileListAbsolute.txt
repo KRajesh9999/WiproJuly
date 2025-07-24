@@ -1,0 +1,7 @@
+E:\WiproJuly\Day2\FactorsOfNumber\FactorsOfNumber\bin\Debug\FactorsOfNumber.exe.config
+E:\WiproJuly\Day2\FactorsOfNumber\FactorsOfNumber\bin\Debug\FactorsOfNumber.exe
+E:\WiproJuly\Day2\FactorsOfNumber\FactorsOfNumber\bin\Debug\FactorsOfNumber.pdb
+E:\WiproJuly\Day2\FactorsOfNumber\FactorsOfNumber\obj\Debug\FactorsOfNumber.csproj.AssemblyReference.cache
+E:\WiproJuly\Day2\FactorsOfNumber\FactorsOfNumber\obj\Debug\FactorsOfNumber.csproj.CoreCompileInputs.cache
+E:\WiproJuly\Day2\FactorsOfNumber\FactorsOfNumber\obj\Debug\FactorsOfNumber.exe
+E:\WiproJuly\Day2\FactorsOfNumber\FactorsOfNumber\obj\Debug\FactorsOfNumber.pdb

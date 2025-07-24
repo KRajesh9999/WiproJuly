@@ -1,0 +1,10 @@
+E:\WiproJuly\Day3\CalculationLibraryMain\CalculationLibraryMain\bin\Debug\CalculationLibraryMain.exe.config
+E:\WiproJuly\Day3\CalculationLibraryMain\CalculationLibraryMain\bin\Debug\CalculationLibraryMain.exe
+E:\WiproJuly\Day3\CalculationLibraryMain\CalculationLibraryMain\bin\Debug\CalculationLibraryMain.pdb
+E:\WiproJuly\Day3\CalculationLibraryMain\CalculationLibraryMain\bin\Debug\CalculationLibrary.dll
+E:\WiproJuly\Day3\CalculationLibraryMain\CalculationLibraryMain\bin\Debug\CalculationLibrary.pdb
+E:\WiproJuly\Day3\CalculationLibraryMain\CalculationLibraryMain\obj\Debug\CalculationLibraryMain.csproj.AssemblyReference.cache
+E:\WiproJuly\Day3\CalculationLibraryMain\CalculationLibraryMain\obj\Debug\CalculationLibraryMain.csproj.CoreCompileInputs.cache
+E:\WiproJuly\Day3\CalculationLibraryMain\CalculationLibraryMain\obj\Debug\Calculat.A1358C1B.Up2Date
+E:\WiproJuly\Day3\CalculationLibraryMain\CalculationLibraryMain\obj\Debug\CalculationLibraryMain.exe
+E:\WiproJuly\Day3\CalculationLibraryMain\CalculationLibraryMain\obj\Debug\CalculationLibraryMain.pdb

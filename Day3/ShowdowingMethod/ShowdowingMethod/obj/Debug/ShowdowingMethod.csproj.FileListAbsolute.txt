@@ -1,0 +1,7 @@
+E:\WiproJuly\Day3\ShowdowingMethod\ShowdowingMethod\bin\Debug\ShowdowingMethod.exe.config
+E:\WiproJuly\Day3\ShowdowingMethod\ShowdowingMethod\bin\Debug\ShowdowingMethod.exe
+E:\WiproJuly\Day3\ShowdowingMethod\ShowdowingMethod\bin\Debug\ShowdowingMethod.pdb
+E:\WiproJuly\Day3\ShowdowingMethod\ShowdowingMethod\obj\Debug\ShowdowingMethod.csproj.AssemblyReference.cache
+E:\WiproJuly\Day3\ShowdowingMethod\ShowdowingMethod\obj\Debug\ShowdowingMethod.csproj.CoreCompileInputs.cache
+E:\WiproJuly\Day3\ShowdowingMethod\ShowdowingMethod\obj\Debug\ShowdowingMethod.exe
+E:\WiproJuly\Day3\ShowdowingMethod\ShowdowingMethod\obj\Debug\ShowdowingMethod.pdb

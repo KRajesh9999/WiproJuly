@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\WiproJuly\\Day3\\Multi_Jagged_Arr_Parameter_Types\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B180F4E-8BA4-43EE-9654-6A8FDD940825}|Multi_Jagged_Arr_Parameter_Types\\Multi_Jagged_Arr_Parameter_Types.csproj|e:\\wiprojuly\\day3\\multi_jagged_arr_parameter_types\\multi_jagged_arr_parameter_types\\str_gethashcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B180F4E-8BA4-43EE-9654-6A8FDD940825}|Multi_Jagged_Arr_Parameter_Types\\Multi_Jagged_Arr_Parameter_Types.csproj|solutionrelative:multi_jagged_arr_parameter_types\\str_gethashcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Multi_Jagged_Arr_Parameter_Types||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B180F4E-8BA4-43EE-9654-6A8FDD940825}|Multi_Jagged_Arr_Parameter_Types\\Multi_Jagged_Arr_Parameter_Types.csproj|e:\\wiprojuly\\day3\\multi_jagged_arr_parameter_types\\multi_jagged_arr_parameter_types\\ref_factorialprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B180F4E-8BA4-43EE-9654-6A8FDD940825}|Multi_Jagged_Arr_Parameter_Types\\Multi_Jagged_Arr_Parameter_Types.csproj|solutionrelative:multi_jagged_arr_parameter_types\\ref_factorialprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B180F4E-8BA4-43EE-9654-6A8FDD940825}|Multi_Jagged_Arr_Parameter_Types\\Multi_Jagged_Arr_Parameter_Types.csproj|e:\\wiprojuly\\day3\\multi_jagged_arr_parameter_types\\multi_jagged_arr_parameter_types\\quiz1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B180F4E-8BA4-43EE-9654-6A8FDD940825}|Multi_Jagged_Arr_Parameter_Types\\Multi_Jagged_Arr_Parameter_Types.csproj|solutionrelative:multi_jagged_arr_parameter_types\\quiz1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B180F4E-8BA4-43EE-9654-6A8FDD940825}|Multi_Jagged_Arr_Parameter_Types\\Multi_Jagged_Arr_Parameter_Types.csproj|e:\\wiprojuly\\day3\\multi_jagged_arr_parameter_types\\multi_jagged_arr_parameter_types\\jaggedarraymatrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B180F4E-8BA4-43EE-9654-6A8FDD940825}|Multi_Jagged_Arr_Parameter_Types\\Multi_Jagged_Arr_Parameter_Types.csproj|solutionrelative:multi_jagged_arr_parameter_types\\jaggedarraymatrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B180F4E-8BA4-43EE-9654-6A8FDD940825}|Multi_Jagged_Arr_Parameter_Types\\Multi_Jagged_Arr_Parameter_Types.csproj|e:\\wiprojuly\\day3\\multi_jagged_arr_parameter_types\\multi_jagged_arr_parameter_types\\jaggedarraydynamic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B180F4E-8BA4-43EE-9654-6A8FDD940825}|Multi_Jagged_Arr_Parameter_Types\\Multi_Jagged_Arr_Parameter_Types.csproj|solutionrelative:multi_jagged_arr_parameter_types\\jaggedarraydynamic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B180F4E-8BA4-43EE-9654-6A8FDD940825}|Multi_Jagged_Arr_Parameter_Types\\Multi_Jagged_Arr_Parameter_Types.csproj|e:\\wiprojuly\\day3\\multi_jagged_arr_parameter_types\\multi_jagged_arr_parameter_types\\jaggedarrayex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B180F4E-8BA4-43EE-9654-6A8FDD940825}|Multi_Jagged_Arr_Parameter_Types\\Multi_Jagged_Arr_Parameter_Types.csproj|solutionrelative:multi_jagged_arr_parameter_types\\jaggedarrayex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B180F4E-8BA4-43EE-9654-6A8FDD940825}|Multi_Jagged_Arr_Parameter_Types\\Multi_Jagged_Arr_Parameter_Types.csproj|e:\\wiprojuly\\day3\\multi_jagged_arr_parameter_types\\multi_jagged_arr_parameter_types\\customeinput2darray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B180F4E-8BA4-43EE-9654-6A8FDD940825}|Multi_Jagged_Arr_Parameter_Types\\Multi_Jagged_Arr_Parameter_Types.csproj|solutionrelative:multi_jagged_arr_parameter_types\\customeinput2darray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B180F4E-8BA4-43EE-9654-6A8FDD940825}|Multi_Jagged_Arr_Parameter_Types\\Multi_Jagged_Arr_Parameter_Types.csproj|e:\\wiprojuly\\day3\\multi_jagged_arr_parameter_types\\multi_jagged_arr_parameter_types\\matrixarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B180F4E-8BA4-43EE-9654-6A8FDD940825}|Multi_Jagged_Arr_Parameter_Types\\Multi_Jagged_Arr_Parameter_Types.csproj|solutionrelative:multi_jagged_arr_parameter_types\\matrixarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B180F4E-8BA4-43EE-9654-6A8FDD940825}|Multi_Jagged_Arr_Parameter_Types\\Multi_Jagged_Arr_Parameter_Types.csproj|e:\\wiprojuly\\day3\\multi_jagged_arr_parameter_types\\multi_jagged_arr_parameter_types\\multiarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B180F4E-8BA4-43EE-9654-6A8FDD940825}|Multi_Jagged_Arr_Parameter_Types\\Multi_Jagged_Arr_Parameter_Types.csproj|solutionrelative:multi_jagged_arr_parameter_types\\multiarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B180F4E-8BA4-43EE-9654-6A8FDD940825}|Multi_Jagged_Arr_Parameter_Types\\Multi_Jagged_Arr_Parameter_Types.csproj|e:\\wiprojuly\\day3\\multi_jagged_arr_parameter_types\\multi_jagged_arr_parameter_types\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Multi_Jagged_Arr_Parameter_Types",
+              "DocumentMoniker": "E:\\WiproJuly\\Day3\\Multi_Jagged_Arr_Parameter_Types\\Multi_Jagged_Arr_Parameter_Types\\Multi_Jagged_Arr_Parameter_Types.csproj",
+              "RelativeDocumentMoniker": "Multi_Jagged_Arr_Parameter_Types\\Multi_Jagged_Arr_Parameter_Types.csproj",
+              "ToolTip": "E:\\WiproJuly\\Day3\\Multi_Jagged_Arr_Parameter_Types\\Multi_Jagged_Arr_Parameter_Types\\Multi_Jagged_Arr_Parameter_Types.csproj",
+              "RelativeToolTip": "Multi_Jagged_Arr_Parameter_Types\\Multi_Jagged_Arr_Parameter_Types.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-23T11:32:34.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Str_GetHashCode.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day3\\Multi_Jagged_Arr_Parameter_Types\\Multi_Jagged_Arr_Parameter_Types\\Str_GetHashCode.cs",
+              "RelativeDocumentMoniker": "Multi_Jagged_Arr_Parameter_Types\\Str_GetHashCode.cs",
+              "ToolTip": "E:\\WiproJuly\\Day3\\Multi_Jagged_Arr_Parameter_Types\\Multi_Jagged_Arr_Parameter_Types\\Str_GetHashCode.cs",
+              "RelativeToolTip": "Multi_Jagged_Arr_Parameter_Types\\Str_GetHashCode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T11:30:57.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ref_FactorialProgram.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day3\\Multi_Jagged_Arr_Parameter_Types\\Multi_Jagged_Arr_Parameter_Types\\Ref_FactorialProgram.cs",
+              "RelativeDocumentMoniker": "Multi_Jagged_Arr_Parameter_Types\\Ref_FactorialProgram.cs",
+              "ToolTip": "E:\\WiproJuly\\Day3\\Multi_Jagged_Arr_Parameter_Types\\Multi_Jagged_Arr_Parameter_Types\\Ref_FactorialProgram.cs",
+              "RelativeToolTip": "Multi_Jagged_Arr_Parameter_Types\\Ref_FactorialProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T11:26:23.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Quiz1.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day3\\Multi_Jagged_Arr_Parameter_Types\\Multi_Jagged_Arr_Parameter_Types\\Quiz1.cs",
+              "RelativeDocumentMoniker": "Multi_Jagged_Arr_Parameter_Types\\Quiz1.cs",
+              "ToolTip": "E:\\WiproJuly\\Day3\\Multi_Jagged_Arr_Parameter_Types\\Multi_Jagged_Arr_Parameter_Types\\Quiz1.cs",
+              "RelativeToolTip": "Multi_Jagged_Arr_Parameter_Types\\Quiz1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T11:09:05.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JaggedArrayMatrix.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day3\\Multi_Jagged_Arr_Parameter_Types\\Multi_Jagged_Arr_Parameter_Types\\JaggedArrayMatrix.cs",
+              "RelativeDocumentMoniker": "Multi_Jagged_Arr_Parameter_Types\\JaggedArrayMatrix.cs",
+              "ToolTip": "E:\\WiproJuly\\Day3\\Multi_Jagged_Arr_Parameter_Types\\Multi_Jagged_Arr_Parameter_Types\\JaggedArrayMatrix.cs",
+              "RelativeToolTip": "Multi_Jagged_Arr_Parameter_Types\\JaggedArrayMatrix.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwDsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T10:53:48.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JaggedArrayDynamic.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day3\\Multi_Jagged_Arr_Parameter_Types\\Multi_Jagged_Arr_Parameter_Types\\JaggedArrayDynamic.cs",
+              "RelativeDocumentMoniker": "Multi_Jagged_Arr_Parameter_Types\\JaggedArrayDynamic.cs",
+              "ToolTip": "E:\\WiproJuly\\Day3\\Multi_Jagged_Arr_Parameter_Types\\Multi_Jagged_Arr_Parameter_Types\\JaggedArrayDynamic.cs",
+              "RelativeToolTip": "Multi_Jagged_Arr_Parameter_Types\\JaggedArrayDynamic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T10:40:13.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JaggedArrayEx.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day3\\Multi_Jagged_Arr_Parameter_Types\\Multi_Jagged_Arr_Parameter_Types\\JaggedArrayEx.cs",
+              "RelativeDocumentMoniker": "Multi_Jagged_Arr_Parameter_Types\\JaggedArrayEx.cs",
+              "ToolTip": "E:\\WiproJuly\\Day3\\Multi_Jagged_Arr_Parameter_Types\\Multi_Jagged_Arr_Parameter_Types\\JaggedArrayEx.cs",
+              "RelativeToolTip": "Multi_Jagged_Arr_Parameter_Types\\JaggedArrayEx.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T10:27:51.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MatrixArray.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day3\\Multi_Jagged_Arr_Parameter_Types\\Multi_Jagged_Arr_Parameter_Types\\MatrixArray.cs",
+              "RelativeDocumentMoniker": "Multi_Jagged_Arr_Parameter_Types\\MatrixArray.cs",
+              "ToolTip": "E:\\WiproJuly\\Day3\\Multi_Jagged_Arr_Parameter_Types\\Multi_Jagged_Arr_Parameter_Types\\MatrixArray.cs",
+              "RelativeToolTip": "Multi_Jagged_Arr_Parameter_Types\\MatrixArray.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T05:33:12.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomeInput2DArray.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day3\\Multi_Jagged_Arr_Parameter_Types\\Multi_Jagged_Arr_Parameter_Types\\CustomeInput2DArray.cs",
+              "RelativeDocumentMoniker": "Multi_Jagged_Arr_Parameter_Types\\CustomeInput2DArray.cs",
+              "ToolTip": "E:\\WiproJuly\\Day3\\Multi_Jagged_Arr_Parameter_Types\\Multi_Jagged_Arr_Parameter_Types\\CustomeInput2DArray.cs",
+              "RelativeToolTip": "Multi_Jagged_Arr_Parameter_Types\\CustomeInput2DArray.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T05:30:54.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MultiArray.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day3\\Multi_Jagged_Arr_Parameter_Types\\Multi_Jagged_Arr_Parameter_Types\\MultiArray.cs",
+              "RelativeDocumentMoniker": "Multi_Jagged_Arr_Parameter_Types\\MultiArray.cs",
+              "ToolTip": "E:\\WiproJuly\\Day3\\Multi_Jagged_Arr_Parameter_Types\\Multi_Jagged_Arr_Parameter_Types\\MultiArray.cs",
+              "RelativeToolTip": "Multi_Jagged_Arr_Parameter_Types\\MultiArray.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T05:24:46.736Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

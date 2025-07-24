@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\WiproJuly\\Day4\\Static_Var_Method_NonStatic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Static_Var_Method_NonStatic||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CBB1069-CA2B-41E7-8A21-D04EF88773A7}|Static_Var_Method_NonStatic\\Static_Var_Method_NonStatic.csproj|e:\\wiprojuly\\day4\\static_var_method_nonstatic\\static_var_method_nonstatic\\static_cricket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CBB1069-CA2B-41E7-8A21-D04EF88773A7}|Static_Var_Method_NonStatic\\Static_Var_Method_NonStatic.csproj|solutionrelative:static_var_method_nonstatic\\static_cricket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CBB1069-CA2B-41E7-8A21-D04EF88773A7}|Static_Var_Method_NonStatic\\Static_Var_Method_NonStatic.csproj|e:\\wiprojuly\\day4\\static_var_method_nonstatic\\static_var_method_nonstatic\\staticmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CBB1069-CA2B-41E7-8A21-D04EF88773A7}|Static_Var_Method_NonStatic\\Static_Var_Method_NonStatic.csproj|solutionrelative:static_var_method_nonstatic\\staticmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CBB1069-CA2B-41E7-8A21-D04EF88773A7}|Static_Var_Method_NonStatic\\Static_Var_Method_NonStatic.csproj|e:\\wiprojuly\\day4\\static_var_method_nonstatic\\static_var_method_nonstatic\\staticvar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CBB1069-CA2B-41E7-8A21-D04EF88773A7}|Static_Var_Method_NonStatic\\Static_Var_Method_NonStatic.csproj|solutionrelative:static_var_method_nonstatic\\staticvar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CBB1069-CA2B-41E7-8A21-D04EF88773A7}|Static_Var_Method_NonStatic\\Static_Var_Method_NonStatic.csproj|e:\\wiprojuly\\day4\\static_var_method_nonstatic\\static_var_method_nonstatic\\staticclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CBB1069-CA2B-41E7-8A21-D04EF88773A7}|Static_Var_Method_NonStatic\\Static_Var_Method_NonStatic.csproj|solutionrelative:static_var_method_nonstatic\\staticclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CBB1069-CA2B-41E7-8A21-D04EF88773A7}|Static_Var_Method_NonStatic\\Static_Var_Method_NonStatic.csproj|e:\\wiprojuly\\day4\\static_var_method_nonstatic\\static_var_method_nonstatic\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Static_Var_Method_NonStatic",
+              "DocumentMoniker": "E:\\WiproJuly\\Day4\\Static_Var_Method_NonStatic\\Static_Var_Method_NonStatic\\Static_Var_Method_NonStatic.csproj",
+              "RelativeDocumentMoniker": "Static_Var_Method_NonStatic\\Static_Var_Method_NonStatic.csproj",
+              "ToolTip": "E:\\WiproJuly\\Day4\\Static_Var_Method_NonStatic\\Static_Var_Method_NonStatic\\Static_Var_Method_NonStatic.csproj*",
+              "RelativeToolTip": "Static_Var_Method_NonStatic\\Static_Var_Method_NonStatic.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-24T06:02:56.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Static_Cricket.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day4\\Static_Var_Method_NonStatic\\Static_Var_Method_NonStatic\\Static_Cricket.cs",
+              "RelativeDocumentMoniker": "Static_Var_Method_NonStatic\\Static_Cricket.cs",
+              "ToolTip": "E:\\WiproJuly\\Day4\\Static_Var_Method_NonStatic\\Static_Var_Method_NonStatic\\Static_Cricket.cs",
+              "RelativeToolTip": "Static_Var_Method_NonStatic\\Static_Cricket.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T05:57:22.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StaticMethod.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day4\\Static_Var_Method_NonStatic\\Static_Var_Method_NonStatic\\StaticMethod.cs",
+              "RelativeDocumentMoniker": "Static_Var_Method_NonStatic\\StaticMethod.cs",
+              "ToolTip": "E:\\WiproJuly\\Day4\\Static_Var_Method_NonStatic\\Static_Var_Method_NonStatic\\StaticMethod.cs",
+              "RelativeToolTip": "Static_Var_Method_NonStatic\\StaticMethod.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T05:52:47.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StaticClass.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day4\\Static_Var_Method_NonStatic\\Static_Var_Method_NonStatic\\StaticClass.cs",
+              "RelativeDocumentMoniker": "Static_Var_Method_NonStatic\\StaticClass.cs",
+              "ToolTip": "E:\\WiproJuly\\Day4\\Static_Var_Method_NonStatic\\Static_Var_Method_NonStatic\\StaticClass.cs",
+              "RelativeToolTip": "Static_Var_Method_NonStatic\\StaticClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T05:45:08.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StaticVar.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day4\\Static_Var_Method_NonStatic\\Static_Var_Method_NonStatic\\StaticVar.cs",
+              "RelativeDocumentMoniker": "Static_Var_Method_NonStatic\\StaticVar.cs",
+              "ToolTip": "E:\\WiproJuly\\Day4\\Static_Var_Method_NonStatic\\Static_Var_Method_NonStatic\\StaticVar.cs",
+              "RelativeToolTip": "Static_Var_Method_NonStatic\\StaticVar.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T05:13:29.805Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

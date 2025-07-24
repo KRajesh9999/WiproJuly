@@ -1,0 +1,7 @@
+E:\WiproJuly\Day2\BoxingEx2\BoxingEx2\bin\Debug\BoxingEx2.exe.config
+E:\WiproJuly\Day2\BoxingEx2\BoxingEx2\bin\Debug\BoxingEx2.exe
+E:\WiproJuly\Day2\BoxingEx2\BoxingEx2\bin\Debug\BoxingEx2.pdb
+E:\WiproJuly\Day2\BoxingEx2\BoxingEx2\obj\Debug\BoxingEx2.csproj.AssemblyReference.cache
+E:\WiproJuly\Day2\BoxingEx2\BoxingEx2\obj\Debug\BoxingEx2.csproj.CoreCompileInputs.cache
+E:\WiproJuly\Day2\BoxingEx2\BoxingEx2\obj\Debug\BoxingEx2.exe
+E:\WiproJuly\Day2\BoxingEx2\BoxingEx2\obj\Debug\BoxingEx2.pdb

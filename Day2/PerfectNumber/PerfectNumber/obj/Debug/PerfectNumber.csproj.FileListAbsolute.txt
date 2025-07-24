@@ -1,0 +1,7 @@
+E:\WiproJuly\Day2\PerfectNumber\PerfectNumber\bin\Debug\PerfectNumber.exe.config
+E:\WiproJuly\Day2\PerfectNumber\PerfectNumber\bin\Debug\PerfectNumber.exe
+E:\WiproJuly\Day2\PerfectNumber\PerfectNumber\bin\Debug\PerfectNumber.pdb
+E:\WiproJuly\Day2\PerfectNumber\PerfectNumber\obj\Debug\PerfectNumber.csproj.AssemblyReference.cache
+E:\WiproJuly\Day2\PerfectNumber\PerfectNumber\obj\Debug\PerfectNumber.csproj.CoreCompileInputs.cache
+E:\WiproJuly\Day2\PerfectNumber\PerfectNumber\obj\Debug\PerfectNumber.exe
+E:\WiproJuly\Day2\PerfectNumber\PerfectNumber\obj\Debug\PerfectNumber.pdb

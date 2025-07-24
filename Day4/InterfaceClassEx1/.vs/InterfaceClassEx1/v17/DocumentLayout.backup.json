@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\WiproJuly\\Day4\\InterfaceClassEx1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2AE3809-1AC0-419E-9EA4-B471F374AC22}|InterfaceClassEx1\\InterfaceClassEx1.csproj|e:\\wiprojuly\\day4\\interfaceclassex1\\interfaceclassex1\\interfacemain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2AE3809-1AC0-419E-9EA4-B471F374AC22}|InterfaceClassEx1\\InterfaceClassEx1.csproj|solutionrelative:interfaceclassex1\\interfacemain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2AE3809-1AC0-419E-9EA4-B471F374AC22}|InterfaceClassEx1\\InterfaceClassEx1.csproj|e:\\wiprojuly\\day4\\interfaceclassex1\\interfaceclassex1\\yamini.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2AE3809-1AC0-419E-9EA4-B471F374AC22}|InterfaceClassEx1\\InterfaceClassEx1.csproj|solutionrelative:interfaceclassex1\\yamini.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2AE3809-1AC0-419E-9EA4-B471F374AC22}|InterfaceClassEx1\\InterfaceClassEx1.csproj|e:\\wiprojuly\\day4\\interfaceclassex1\\interfaceclassex1\\sunil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2AE3809-1AC0-419E-9EA4-B471F374AC22}|InterfaceClassEx1\\InterfaceClassEx1.csproj|solutionrelative:interfaceclassex1\\sunil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2AE3809-1AC0-419E-9EA4-B471F374AC22}|InterfaceClassEx1\\InterfaceClassEx1.csproj|e:\\wiprojuly\\day4\\interfaceclassex1\\interfaceclassex1\\itraining.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2AE3809-1AC0-419E-9EA4-B471F374AC22}|InterfaceClassEx1\\InterfaceClassEx1.csproj|solutionrelative:interfaceclassex1\\itraining.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Yamini.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day4\\InterfaceClassEx1\\InterfaceClassEx1\\Yamini.cs",
+              "RelativeDocumentMoniker": "InterfaceClassEx1\\Yamini.cs",
+              "ToolTip": "E:\\WiproJuly\\Day4\\InterfaceClassEx1\\InterfaceClassEx1\\Yamini.cs",
+              "RelativeToolTip": "InterfaceClassEx1\\Yamini.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T07:00:27.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sunil.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day4\\InterfaceClassEx1\\InterfaceClassEx1\\Sunil.cs",
+              "RelativeDocumentMoniker": "InterfaceClassEx1\\Sunil.cs",
+              "ToolTip": "E:\\WiproJuly\\Day4\\InterfaceClassEx1\\InterfaceClassEx1\\Sunil.cs",
+              "RelativeToolTip": "InterfaceClassEx1\\Sunil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:57:11.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITraining.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day4\\InterfaceClassEx1\\InterfaceClassEx1\\ITraining.cs",
+              "RelativeDocumentMoniker": "InterfaceClassEx1\\ITraining.cs",
+              "ToolTip": "E:\\WiproJuly\\Day4\\InterfaceClassEx1\\InterfaceClassEx1\\ITraining.cs",
+              "RelativeToolTip": "InterfaceClassEx1\\ITraining.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:54:50.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InterfaceMain.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day4\\InterfaceClassEx1\\InterfaceClassEx1\\InterfaceMain.cs",
+              "RelativeDocumentMoniker": "InterfaceClassEx1\\InterfaceMain.cs",
+              "ToolTip": "E:\\WiproJuly\\Day4\\InterfaceClassEx1\\InterfaceClassEx1\\InterfaceMain.cs",
+              "RelativeToolTip": "InterfaceClassEx1\\InterfaceMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:51:44.806Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

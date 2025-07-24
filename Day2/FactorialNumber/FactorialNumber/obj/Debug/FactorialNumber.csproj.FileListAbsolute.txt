@@ -1,0 +1,7 @@
+E:\WiproJuly\Day2\FactorialNumber\FactorialNumber\bin\Debug\FactorialNumber.exe.config
+E:\WiproJuly\Day2\FactorialNumber\FactorialNumber\bin\Debug\FactorialNumber.exe
+E:\WiproJuly\Day2\FactorialNumber\FactorialNumber\bin\Debug\FactorialNumber.pdb
+E:\WiproJuly\Day2\FactorialNumber\FactorialNumber\obj\Debug\FactorialNumber.csproj.AssemblyReference.cache
+E:\WiproJuly\Day2\FactorialNumber\FactorialNumber\obj\Debug\FactorialNumber.csproj.CoreCompileInputs.cache
+E:\WiproJuly\Day2\FactorialNumber\FactorialNumber\obj\Debug\FactorialNumber.exe
+E:\WiproJuly\Day2\FactorialNumber\FactorialNumber\obj\Debug\FactorialNumber.pdb

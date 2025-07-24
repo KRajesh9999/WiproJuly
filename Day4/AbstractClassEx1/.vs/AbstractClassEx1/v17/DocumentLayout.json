@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\WiproJuly\\Day4\\AbstractClassEx1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84C93A6B-6EA9-4E39-B0CB-B1A48A0210B4}|AbstractClassEx1\\AbstractClassEx1.csproj|e:\\wiprojuly\\day4\\abstractclassex1\\abstractclassex1\\abstractmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84C93A6B-6EA9-4E39-B0CB-B1A48A0210B4}|AbstractClassEx1\\AbstractClassEx1.csproj|solutionrelative:abstractclassex1\\abstractmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84C93A6B-6EA9-4E39-B0CB-B1A48A0210B4}|AbstractClassEx1\\AbstractClassEx1.csproj|e:\\wiprojuly\\day4\\abstractclassex1\\abstractclassex1\\mahi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84C93A6B-6EA9-4E39-B0CB-B1A48A0210B4}|AbstractClassEx1\\AbstractClassEx1.csproj|solutionrelative:abstractclassex1\\mahi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84C93A6B-6EA9-4E39-B0CB-B1A48A0210B4}|AbstractClassEx1\\AbstractClassEx1.csproj|e:\\wiprojuly\\day4\\abstractclassex1\\abstractclassex1\\venkat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84C93A6B-6EA9-4E39-B0CB-B1A48A0210B4}|AbstractClassEx1\\AbstractClassEx1.csproj|solutionrelative:abstractclassex1\\venkat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84C93A6B-6EA9-4E39-B0CB-B1A48A0210B4}|AbstractClassEx1\\AbstractClassEx1.csproj|e:\\wiprojuly\\day4\\abstractclassex1\\abstractclassex1\\rajesh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84C93A6B-6EA9-4E39-B0CB-B1A48A0210B4}|AbstractClassEx1\\AbstractClassEx1.csproj|solutionrelative:abstractclassex1\\rajesh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84C93A6B-6EA9-4E39-B0CB-B1A48A0210B4}|AbstractClassEx1\\AbstractClassEx1.csproj|e:\\wiprojuly\\day4\\abstractclassex1\\abstractclassex1\\training.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84C93A6B-6EA9-4E39-B0CB-B1A48A0210B4}|AbstractClassEx1\\AbstractClassEx1.csproj|solutionrelative:abstractclassex1\\training.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mahi.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day4\\AbstractClassEx1\\AbstractClassEx1\\Mahi.cs",
+              "RelativeDocumentMoniker": "AbstractClassEx1\\Mahi.cs",
+              "ToolTip": "E:\\WiproJuly\\Day4\\AbstractClassEx1\\AbstractClassEx1\\Mahi.cs",
+              "RelativeToolTip": "AbstractClassEx1\\Mahi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:38:52.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Venkat.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day4\\AbstractClassEx1\\AbstractClassEx1\\Venkat.cs",
+              "RelativeDocumentMoniker": "AbstractClassEx1\\Venkat.cs",
+              "ToolTip": "E:\\WiproJuly\\Day4\\AbstractClassEx1\\AbstractClassEx1\\Venkat.cs",
+              "RelativeToolTip": "AbstractClassEx1\\Venkat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:38:18.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rajesh.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day4\\AbstractClassEx1\\AbstractClassEx1\\Rajesh.cs",
+              "RelativeDocumentMoniker": "AbstractClassEx1\\Rajesh.cs",
+              "ToolTip": "E:\\WiproJuly\\Day4\\AbstractClassEx1\\AbstractClassEx1\\Rajesh.cs",
+              "RelativeToolTip": "AbstractClassEx1\\Rajesh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:36:09.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Training.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day4\\AbstractClassEx1\\AbstractClassEx1\\Training.cs",
+              "RelativeDocumentMoniker": "AbstractClassEx1\\Training.cs",
+              "ToolTip": "E:\\WiproJuly\\Day4\\AbstractClassEx1\\AbstractClassEx1\\Training.cs",
+              "RelativeToolTip": "AbstractClassEx1\\Training.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:33:59.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AbstractMain.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day4\\AbstractClassEx1\\AbstractClassEx1\\AbstractMain.cs",
+              "RelativeDocumentMoniker": "AbstractClassEx1\\AbstractMain.cs",
+              "ToolTip": "E:\\WiproJuly\\Day4\\AbstractClassEx1\\AbstractClassEx1\\AbstractMain.cs",
+              "RelativeToolTip": "AbstractClassEx1\\AbstractMain.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:30:17.197Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

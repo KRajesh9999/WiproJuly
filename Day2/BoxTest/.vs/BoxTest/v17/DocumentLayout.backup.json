@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\WiproJuly\\Day2\\BoxTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F60E55F1-65DC-443D-8C5D-40F2773D2FC7}|BoxTest\\BoxTest.csproj|e:\\wiprojuly\\day2\\boxtest\\boxtest\\boxtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F60E55F1-65DC-443D-8C5D-40F2773D2FC7}|BoxTest\\BoxTest.csproj|solutionrelative:boxtest\\boxtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BoxTest.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day2\\BoxTest\\BoxTest\\BoxTest.cs",
+              "RelativeDocumentMoniker": "BoxTest\\BoxTest.cs",
+              "ToolTip": "E:\\WiproJuly\\Day2\\BoxTest\\BoxTest\\BoxTest.cs",
+              "RelativeToolTip": "BoxTest\\BoxTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T10:29:14.039Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

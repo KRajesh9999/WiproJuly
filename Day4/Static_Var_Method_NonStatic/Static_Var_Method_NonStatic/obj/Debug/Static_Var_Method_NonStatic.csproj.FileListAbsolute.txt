@@ -1,0 +1,7 @@
+E:\WiproJuly\Day4\Static_Var_Method_NonStatic\Static_Var_Method_NonStatic\bin\Debug\Static_Var_Method_NonStatic.exe.config
+E:\WiproJuly\Day4\Static_Var_Method_NonStatic\Static_Var_Method_NonStatic\bin\Debug\Static_Var_Method_NonStatic.exe
+E:\WiproJuly\Day4\Static_Var_Method_NonStatic\Static_Var_Method_NonStatic\bin\Debug\Static_Var_Method_NonStatic.pdb
+E:\WiproJuly\Day4\Static_Var_Method_NonStatic\Static_Var_Method_NonStatic\obj\Debug\Static_Var_Method_NonStatic.csproj.AssemblyReference.cache
+E:\WiproJuly\Day4\Static_Var_Method_NonStatic\Static_Var_Method_NonStatic\obj\Debug\Static_Var_Method_NonStatic.csproj.CoreCompileInputs.cache
+E:\WiproJuly\Day4\Static_Var_Method_NonStatic\Static_Var_Method_NonStatic\obj\Debug\Static_Var_Method_NonStatic.exe
+E:\WiproJuly\Day4\Static_Var_Method_NonStatic\Static_Var_Method_NonStatic\obj\Debug\Static_Var_Method_NonStatic.pdb

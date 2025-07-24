@@ -1,0 +1,8 @@
+E:\WiproJuly\Day4\AbstractClassEx2\AbstractClassEx2\bin\Debug\AbstractClassEx2.exe.config
+E:\WiproJuly\Day4\AbstractClassEx2\AbstractClassEx2\bin\Debug\AbstractClassEx2.exe
+E:\WiproJuly\Day4\AbstractClassEx2\AbstractClassEx2\bin\Debug\AbstractClassEx2.pdb
+E:\WiproJuly\Day4\AbstractClassEx2\AbstractClassEx2\obj\Debug\AbstractClassEx2.csproj.AssemblyReference.cache
+E:\WiproJuly\Day4\AbstractClassEx2\AbstractClassEx2\obj\Debug\AbstractClassEx2.csproj.CoreCompileInputs.cache
+E:\WiproJuly\Day4\AbstractClassEx2\AbstractClassEx2\obj\Debug\AbstractClassEx2.exe
+E:\WiproJuly\Day4\AbstractClassEx2\AbstractClassEx2\obj\Debug\AbstractClassEx2.pdb
+E:\WiproJuly\Day4\AbstractClassEx2\AbstractClassEx2\obj\Debug\AbstractClassEx2.exe.config
