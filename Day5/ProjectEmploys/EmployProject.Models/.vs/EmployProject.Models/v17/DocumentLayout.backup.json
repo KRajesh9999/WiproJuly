@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\WiproJuly\\Day5\\ProjectEmploys\\EmployProject.Models\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA93C64-02C8-4235-81D4-962E28B35D9B}|..\\EmployProject.Bal\\EmployProject.Bal.csproj|e:\\wiprojuly\\day5\\projectemploys\\employproject.bal\\employbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF697179-8E0E-4F5B-A786-FDD51D535DF5}|..\\EmployProject.MainOne\\EmployProject.MainOne.csproj|e:\\wiprojuly\\day5\\projectemploys\\employproject.mainone\\employmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F662E3C5-FD11-47D2-B175-2A2975C7BF57}|..\\EmployProject.Dao\\EmployProject.Dao.csproj|e:\\wiprojuly\\day5\\projectemploys\\employproject.dao\\iemploydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F662E3C5-FD11-47D2-B175-2A2975C7BF57}|..\\EmployProject.Dao\\EmployProject.Dao.csproj|e:\\wiprojuly\\day5\\projectemploys\\employproject.dao\\employdaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployMain.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day5\\ProjectEmploys\\EmployProject.MainOne\\EmployMain.cs",
+              "RelativeDocumentMoniker": "..\\EmployProject.MainOne\\EmployMain.cs",
+              "ToolTip": "E:\\WiproJuly\\Day5\\ProjectEmploys\\EmployProject.MainOne\\EmployMain.cs",
+              "RelativeToolTip": "..\\EmployProject.MainOne\\EmployMain.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAowGMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T18:13:32.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployDaoImpl.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day5\\ProjectEmploys\\EmployProject.Dao\\EmployDaoImpl.cs",
+              "RelativeDocumentMoniker": "..\\EmployProject.Dao\\EmployDaoImpl.cs",
+              "ToolTip": "E:\\WiproJuly\\Day5\\ProjectEmploys\\EmployProject.Dao\\EmployDaoImpl.cs",
+              "RelativeToolTip": "..\\EmployProject.Dao\\EmployDaoImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T18:07:26.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEmployDao.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day5\\ProjectEmploys\\EmployProject.Dao\\IEmployDao.cs",
+              "RelativeDocumentMoniker": "..\\EmployProject.Dao\\IEmployDao.cs",
+              "ToolTip": "E:\\WiproJuly\\Day5\\ProjectEmploys\\EmployProject.Dao\\IEmployDao.cs",
+              "RelativeToolTip": "..\\EmployProject.Dao\\IEmployDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T17:11:07.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployBal.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day5\\ProjectEmploys\\EmployProject.Bal\\EmployBal.cs",
+              "RelativeDocumentMoniker": "..\\EmployProject.Bal\\EmployBal.cs",
+              "ToolTip": "E:\\WiproJuly\\Day5\\ProjectEmploys\\EmployProject.Bal\\EmployBal.cs",
+              "RelativeToolTip": "..\\EmployProject.Bal\\EmployBal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T17:43:44.231Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+E:\WiproJuly\Day5\ProjectEmploys\EmployProject.MainOne\bin\Debug\EmployProject.MainOne.exe.config
+E:\WiproJuly\Day5\ProjectEmploys\EmployProject.MainOne\bin\Debug\EmployProject.MainOne.exe
+E:\WiproJuly\Day5\ProjectEmploys\EmployProject.MainOne\bin\Debug\EmployProject.MainOne.pdb
+E:\WiproJuly\Day5\ProjectEmploys\EmployProject.MainOne\bin\Debug\EmployProject.Bal.dll
+E:\WiproJuly\Day5\ProjectEmploys\EmployProject.MainOne\bin\Debug\EmployProject.Exceptions.dll
+E:\WiproJuly\Day5\ProjectEmploys\EmployProject.MainOne\bin\Debug\EmployProject.Models.dll
+E:\WiproJuly\Day5\ProjectEmploys\EmployProject.MainOne\bin\Debug\EmployProject.Dao.dll
+E:\WiproJuly\Day5\ProjectEmploys\EmployProject.MainOne\bin\Debug\EmployProject.Bal.pdb
+E:\WiproJuly\Day5\ProjectEmploys\EmployProject.MainOne\bin\Debug\EmployProject.Exceptions.pdb
+E:\WiproJuly\Day5\ProjectEmploys\EmployProject.MainOne\bin\Debug\EmployProject.Models.pdb
+E:\WiproJuly\Day5\ProjectEmploys\EmployProject.MainOne\bin\Debug\EmployProject.Dao.pdb
+E:\WiproJuly\Day5\ProjectEmploys\EmployProject.MainOne\obj\Debug\EmployProject.MainOne.csproj.AssemblyReference.cache
+E:\WiproJuly\Day5\ProjectEmploys\EmployProject.MainOne\obj\Debug\EmployProject.MainOne.csproj.CoreCompileInputs.cache
+E:\WiproJuly\Day5\ProjectEmploys\EmployProject.MainOne\obj\Debug\EmployPr.459F3D0D.Up2Date
+E:\WiproJuly\Day5\ProjectEmploys\EmployProject.MainOne\obj\Debug\EmployProject.MainOne.exe
+E:\WiproJuly\Day5\ProjectEmploys\EmployProject.MainOne\obj\Debug\EmployProject.MainOne.pdb
+E:\WiproJuly\Day5\ProjectEmploys\EmployProject.MainOne\obj\Debug\EmployProject.MainOne.exe.config

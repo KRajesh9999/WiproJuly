@@ -1,0 +1,8 @@
+E:\WiproJuly\Day5\StackExample\StackExample\bin\Debug\StackExample.exe.config
+E:\WiproJuly\Day5\StackExample\StackExample\bin\Debug\StackExample.exe
+E:\WiproJuly\Day5\StackExample\StackExample\bin\Debug\StackExample.pdb
+E:\WiproJuly\Day5\StackExample\StackExample\obj\Debug\StackExample.csproj.AssemblyReference.cache
+E:\WiproJuly\Day5\StackExample\StackExample\obj\Debug\StackExample.csproj.CoreCompileInputs.cache
+E:\WiproJuly\Day5\StackExample\StackExample\obj\Debug\StackExample.exe
+E:\WiproJuly\Day5\StackExample\StackExample\obj\Debug\StackExample.pdb
+E:\WiproJuly\Day5\StackExample\StackExample\obj\Debug\StackExample.exe.config

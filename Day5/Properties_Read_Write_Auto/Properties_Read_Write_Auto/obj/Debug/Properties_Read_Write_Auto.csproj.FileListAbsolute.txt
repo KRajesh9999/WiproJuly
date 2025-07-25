@@ -1,0 +1,8 @@
+E:\WiproJuly\Day5\Properties_Read_Write_Auto\Properties_Read_Write_Auto\bin\Debug\Properties_Read_Write_Auto.exe.config
+E:\WiproJuly\Day5\Properties_Read_Write_Auto\Properties_Read_Write_Auto\bin\Debug\Properties_Read_Write_Auto.exe
+E:\WiproJuly\Day5\Properties_Read_Write_Auto\Properties_Read_Write_Auto\bin\Debug\Properties_Read_Write_Auto.pdb
+E:\WiproJuly\Day5\Properties_Read_Write_Auto\Properties_Read_Write_Auto\obj\Debug\Properties_Read_Write_Auto.csproj.AssemblyReference.cache
+E:\WiproJuly\Day5\Properties_Read_Write_Auto\Properties_Read_Write_Auto\obj\Debug\Properties_Read_Write_Auto.csproj.CoreCompileInputs.cache
+E:\WiproJuly\Day5\Properties_Read_Write_Auto\Properties_Read_Write_Auto\obj\Debug\Properties_Read_Write_Auto.exe
+E:\WiproJuly\Day5\Properties_Read_Write_Auto\Properties_Read_Write_Auto\obj\Debug\Properties_Read_Write_Auto.pdb
+E:\WiproJuly\Day5\Properties_Read_Write_Auto\Properties_Read_Write_Auto\obj\Debug\Properties_Read_Write_Auto.exe.config

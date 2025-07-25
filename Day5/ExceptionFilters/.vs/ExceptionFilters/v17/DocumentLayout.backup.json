@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\WiproJuly\\Day5\\ExceptionFilters\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ExceptionFilters||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A4D062-6057-4617-BCF8-19E91AB0AF29}|ExceptionFilters\\ExceptionFilters.csproj|e:\\wiprojuly\\day5\\exceptionfilters\\exceptionfilters\\milestoneexceptionfiltermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A4D062-6057-4617-BCF8-19E91AB0AF29}|ExceptionFilters\\ExceptionFilters.csproj|solutionrelative:exceptionfilters\\milestoneexceptionfiltermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A4D062-6057-4617-BCF8-19E91AB0AF29}|ExceptionFilters\\ExceptionFilters.csproj|e:\\wiprojuly\\day5\\exceptionfilters\\exceptionfilters\\milestoneexceptionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A4D062-6057-4617-BCF8-19E91AB0AF29}|ExceptionFilters\\ExceptionFilters.csproj|solutionrelative:exceptionfilters\\milestoneexceptionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A4D062-6057-4617-BCF8-19E91AB0AF29}|ExceptionFilters\\ExceptionFilters.csproj|e:\\wiprojuly\\day5\\exceptionfilters\\exceptionfilters\\exceptionfiltermainex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A4D062-6057-4617-BCF8-19E91AB0AF29}|ExceptionFilters\\ExceptionFilters.csproj|solutionrelative:exceptionfilters\\exceptionfiltermainex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A4D062-6057-4617-BCF8-19E91AB0AF29}|ExceptionFilters\\ExceptionFilters.csproj|e:\\wiprojuly\\day5\\exceptionfilters\\exceptionfilters\\filterexceptionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A4D062-6057-4617-BCF8-19E91AB0AF29}|ExceptionFilters\\ExceptionFilters.csproj|solutionrelative:exceptionfilters\\filterexceptionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A4D062-6057-4617-BCF8-19E91AB0AF29}|ExceptionFilters\\ExceptionFilters.csproj|e:\\wiprojuly\\day5\\exceptionfilters\\exceptionfilters\\filtermainex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A4D062-6057-4617-BCF8-19E91AB0AF29}|ExceptionFilters\\ExceptionFilters.csproj|solutionrelative:exceptionfilters\\filtermainex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A4D062-6057-4617-BCF8-19E91AB0AF29}|ExceptionFilters\\ExceptionFilters.csproj|e:\\wiprojuly\\day5\\exceptionfilters\\exceptionfilters\\filterexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A4D062-6057-4617-BCF8-19E91AB0AF29}|ExceptionFilters\\ExceptionFilters.csproj|solutionrelative:exceptionfilters\\filterexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A4D062-6057-4617-BCF8-19E91AB0AF29}|ExceptionFilters\\ExceptionFilters.csproj|e:\\wiprojuly\\day5\\exceptionfilters\\exceptionfilters\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExceptionFilters",
+              "DocumentMoniker": "E:\\WiproJuly\\Day5\\ExceptionFilters\\ExceptionFilters\\ExceptionFilters.csproj",
+              "RelativeDocumentMoniker": "ExceptionFilters\\ExceptionFilters.csproj",
+              "ToolTip": "E:\\WiproJuly\\Day5\\ExceptionFilters\\ExceptionFilters\\ExceptionFilters.csproj",
+              "RelativeToolTip": "ExceptionFilters\\ExceptionFilters.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-25T05:42:41.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MileStoneExceptionMethod.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day5\\ExceptionFilters\\ExceptionFilters\\MileStoneExceptionMethod.cs",
+              "RelativeDocumentMoniker": "ExceptionFilters\\MileStoneExceptionMethod.cs",
+              "ToolTip": "E:\\WiproJuly\\Day5\\ExceptionFilters\\ExceptionFilters\\MileStoneExceptionMethod.cs",
+              "RelativeToolTip": "ExceptionFilters\\MileStoneExceptionMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:40:24.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MileStoneExceptionFilterMain.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day5\\ExceptionFilters\\ExceptionFilters\\MileStoneExceptionFilterMain.cs",
+              "RelativeDocumentMoniker": "ExceptionFilters\\MileStoneExceptionFilterMain.cs",
+              "ToolTip": "E:\\WiproJuly\\Day5\\ExceptionFilters\\ExceptionFilters\\MileStoneExceptionFilterMain.cs",
+              "RelativeToolTip": "ExceptionFilters\\MileStoneExceptionFilterMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:38:21.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FilterExceptionMethod.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day5\\ExceptionFilters\\ExceptionFilters\\FilterExceptionMethod.cs",
+              "RelativeDocumentMoniker": "ExceptionFilters\\FilterExceptionMethod.cs",
+              "ToolTip": "E:\\WiproJuly\\Day5\\ExceptionFilters\\ExceptionFilters\\FilterExceptionMethod.cs",
+              "RelativeToolTip": "ExceptionFilters\\FilterExceptionMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:30:25.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExceptionFilterMainEx2.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day5\\ExceptionFilters\\ExceptionFilters\\ExceptionFilterMainEx2.cs",
+              "RelativeDocumentMoniker": "ExceptionFilters\\ExceptionFilterMainEx2.cs",
+              "ToolTip": "E:\\WiproJuly\\Day5\\ExceptionFilters\\ExceptionFilters\\ExceptionFilterMainEx2.cs",
+              "RelativeToolTip": "ExceptionFilters\\ExceptionFilterMainEx2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:26:57.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FilterException.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day5\\ExceptionFilters\\ExceptionFilters\\FilterException.cs",
+              "RelativeDocumentMoniker": "ExceptionFilters\\FilterException.cs",
+              "ToolTip": "E:\\WiproJuly\\Day5\\ExceptionFilters\\ExceptionFilters\\FilterException.cs",
+              "RelativeToolTip": "ExceptionFilters\\FilterException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:19:23.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FilterMainEx1.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day5\\ExceptionFilters\\ExceptionFilters\\FilterMainEx1.cs",
+              "RelativeDocumentMoniker": "ExceptionFilters\\FilterMainEx1.cs",
+              "ToolTip": "E:\\WiproJuly\\Day5\\ExceptionFilters\\ExceptionFilters\\FilterMainEx1.cs",
+              "RelativeToolTip": "ExceptionFilters\\FilterMainEx1.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T04:54:28.476Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
