@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\WiproJuly\\Day7\\DelegatesConcept\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4B1388D-2AF2-4057-A825-C0B032782482}|DelegatesConcept\\DelegatesConcept.csproj|e:\\wiprojuly\\day7\\delegatesconcept\\delegatesconcept\\predicateex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4B1388D-2AF2-4057-A825-C0B032782482}|DelegatesConcept\\DelegatesConcept.csproj|solutionrelative:delegatesconcept\\predicateex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4B1388D-2AF2-4057-A825-C0B032782482}|DelegatesConcept\\DelegatesConcept.csproj|e:\\wiprojuly\\day7\\delegatesconcept\\delegatesconcept\\predicateex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4B1388D-2AF2-4057-A825-C0B032782482}|DelegatesConcept\\DelegatesConcept.csproj|solutionrelative:delegatesconcept\\predicateex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4B1388D-2AF2-4057-A825-C0B032782482}|DelegatesConcept\\DelegatesConcept.csproj|e:\\wiprojuly\\day7\\delegatesconcept\\delegatesconcept\\functiondelegates3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4B1388D-2AF2-4057-A825-C0B032782482}|DelegatesConcept\\DelegatesConcept.csproj|solutionrelative:delegatesconcept\\functiondelegates3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4B1388D-2AF2-4057-A825-C0B032782482}|DelegatesConcept\\DelegatesConcept.csproj|e:\\wiprojuly\\day7\\delegatesconcept\\delegatesconcept\\functiondelegates2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4B1388D-2AF2-4057-A825-C0B032782482}|DelegatesConcept\\DelegatesConcept.csproj|solutionrelative:delegatesconcept\\functiondelegates2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4B1388D-2AF2-4057-A825-C0B032782482}|DelegatesConcept\\DelegatesConcept.csproj|e:\\wiprojuly\\day7\\delegatesconcept\\delegatesconcept\\functiondelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4B1388D-2AF2-4057-A825-C0B032782482}|DelegatesConcept\\DelegatesConcept.csproj|solutionrelative:delegatesconcept\\functiondelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4B1388D-2AF2-4057-A825-C0B032782482}|DelegatesConcept\\DelegatesConcept.csproj|e:\\wiprojuly\\day7\\delegatesconcept\\delegatesconcept\\actiondelegate_ex7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4B1388D-2AF2-4057-A825-C0B032782482}|DelegatesConcept\\DelegatesConcept.csproj|solutionrelative:delegatesconcept\\actiondelegate_ex7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4B1388D-2AF2-4057-A825-C0B032782482}|DelegatesConcept\\DelegatesConcept.csproj|e:\\wiprojuly\\day7\\delegatesconcept\\delegatesconcept\\actiondelegate_ex8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4B1388D-2AF2-4057-A825-C0B032782482}|DelegatesConcept\\DelegatesConcept.csproj|solutionrelative:delegatesconcept\\actiondelegate_ex8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4B1388D-2AF2-4057-A825-C0B032782482}|DelegatesConcept\\DelegatesConcept.csproj|e:\\wiprojuly\\day7\\delegatesconcept\\delegatesconcept\\delegateex6_anonymsdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4B1388D-2AF2-4057-A825-C0B032782482}|DelegatesConcept\\DelegatesConcept.csproj|solutionrelative:delegatesconcept\\delegateex6_anonymsdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4B1388D-2AF2-4057-A825-C0B032782482}|DelegatesConcept\\DelegatesConcept.csproj|e:\\wiprojuly\\day7\\delegatesconcept\\delegatesconcept\\delegateex5_arrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4B1388D-2AF2-4057-A825-C0B032782482}|DelegatesConcept\\DelegatesConcept.csproj|solutionrelative:delegatesconcept\\delegateex5_arrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4B1388D-2AF2-4057-A825-C0B032782482}|DelegatesConcept\\DelegatesConcept.csproj|e:\\wiprojuly\\day7\\delegatesconcept\\delegatesconcept\\delegateex3_multicast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4B1388D-2AF2-4057-A825-C0B032782482}|DelegatesConcept\\DelegatesConcept.csproj|solutionrelative:delegatesconcept\\delegateex3_multicast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4B1388D-2AF2-4057-A825-C0B032782482}|DelegatesConcept\\DelegatesConcept.csproj|e:\\wiprojuly\\day7\\delegatesconcept\\delegatesconcept\\delegatesex4_multicast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4B1388D-2AF2-4057-A825-C0B032782482}|DelegatesConcept\\DelegatesConcept.csproj|solutionrelative:delegatesconcept\\delegatesex4_multicast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4B1388D-2AF2-4057-A825-C0B032782482}|DelegatesConcept\\DelegatesConcept.csproj|e:\\wiprojuly\\day7\\delegatesconcept\\delegatesconcept\\delegatesex2_parameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4B1388D-2AF2-4057-A825-C0B032782482}|DelegatesConcept\\DelegatesConcept.csproj|solutionrelative:delegatesconcept\\delegatesex2_parameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4B1388D-2AF2-4057-A825-C0B032782482}|DelegatesConcept\\DelegatesConcept.csproj|e:\\wiprojuly\\day7\\delegatesconcept\\delegatesconcept\\delegateex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4B1388D-2AF2-4057-A825-C0B032782482}|DelegatesConcept\\DelegatesConcept.csproj|solutionrelative:delegatesconcept\\delegateex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PredicateEx2.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day7\\DelegatesConcept\\DelegatesConcept\\PredicateEx2.cs",
+              "RelativeDocumentMoniker": "DelegatesConcept\\PredicateEx2.cs",
+              "ToolTip": "E:\\WiproJuly\\Day7\\DelegatesConcept\\DelegatesConcept\\PredicateEx2.cs",
+              "RelativeToolTip": "DelegatesConcept\\PredicateEx2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T08:58:06.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PredicateEx1.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day7\\DelegatesConcept\\DelegatesConcept\\PredicateEx1.cs",
+              "RelativeDocumentMoniker": "DelegatesConcept\\PredicateEx1.cs",
+              "ToolTip": "E:\\WiproJuly\\Day7\\DelegatesConcept\\DelegatesConcept\\PredicateEx1.cs",
+              "RelativeToolTip": "DelegatesConcept\\PredicateEx1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T06:27:13.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FunctionDelegates3.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day7\\DelegatesConcept\\DelegatesConcept\\FunctionDelegates3.cs",
+              "RelativeDocumentMoniker": "DelegatesConcept\\FunctionDelegates3.cs",
+              "ToolTip": "E:\\WiproJuly\\Day7\\DelegatesConcept\\DelegatesConcept\\FunctionDelegates3.cs",
+              "RelativeToolTip": "DelegatesConcept\\FunctionDelegates3.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T06:23:05.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FunctionDelegates2.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day7\\DelegatesConcept\\DelegatesConcept\\FunctionDelegates2.cs",
+              "RelativeDocumentMoniker": "DelegatesConcept\\FunctionDelegates2.cs",
+              "ToolTip": "E:\\WiproJuly\\Day7\\DelegatesConcept\\DelegatesConcept\\FunctionDelegates2.cs",
+              "RelativeToolTip": "DelegatesConcept\\FunctionDelegates2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T06:19:58.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FunctionDelegate.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day7\\DelegatesConcept\\DelegatesConcept\\FunctionDelegate.cs",
+              "RelativeDocumentMoniker": "DelegatesConcept\\FunctionDelegate.cs",
+              "ToolTip": "E:\\WiproJuly\\Day7\\DelegatesConcept\\DelegatesConcept\\FunctionDelegate.cs",
+              "RelativeToolTip": "DelegatesConcept\\FunctionDelegate.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowBoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T06:15:10.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ActionDelegate_Ex8.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day7\\DelegatesConcept\\DelegatesConcept\\ActionDelegate_Ex8.cs",
+              "RelativeDocumentMoniker": "DelegatesConcept\\ActionDelegate_Ex8.cs",
+              "ToolTip": "E:\\WiproJuly\\Day7\\DelegatesConcept\\DelegatesConcept\\ActionDelegate_Ex8.cs",
+              "RelativeToolTip": "DelegatesConcept\\ActionDelegate_Ex8.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T06:10:12.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ActionDelegate_Ex7.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day7\\DelegatesConcept\\DelegatesConcept\\ActionDelegate_Ex7.cs",
+              "RelativeDocumentMoniker": "DelegatesConcept\\ActionDelegate_Ex7.cs",
+              "ToolTip": "E:\\WiproJuly\\Day7\\DelegatesConcept\\DelegatesConcept\\ActionDelegate_Ex7.cs",
+              "RelativeToolTip": "DelegatesConcept\\ActionDelegate_Ex7.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T06:07:53.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DelegateEx6_AnonymsDelegate.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day7\\DelegatesConcept\\DelegatesConcept\\DelegateEx6_AnonymsDelegate.cs",
+              "RelativeDocumentMoniker": "DelegatesConcept\\DelegateEx6_AnonymsDelegate.cs",
+              "ToolTip": "E:\\WiproJuly\\Day7\\DelegatesConcept\\DelegatesConcept\\DelegateEx6_AnonymsDelegate.cs",
+              "RelativeToolTip": "DelegatesConcept\\DelegateEx6_AnonymsDelegate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T06:05:22.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DelegateEx5_Arrays.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day7\\DelegatesConcept\\DelegatesConcept\\DelegateEx5_Arrays.cs",
+              "RelativeDocumentMoniker": "DelegatesConcept\\DelegateEx5_Arrays.cs",
+              "ToolTip": "E:\\WiproJuly\\Day7\\DelegatesConcept\\DelegatesConcept\\DelegateEx5_Arrays.cs",
+              "RelativeToolTip": "DelegatesConcept\\DelegateEx5_Arrays.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T06:00:13.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DelegatesEx4_Multicast.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day7\\DelegatesConcept\\DelegatesConcept\\DelegatesEx4_Multicast.cs",
+              "RelativeDocumentMoniker": "DelegatesConcept\\DelegatesEx4_Multicast.cs",
+              "ToolTip": "E:\\WiproJuly\\Day7\\DelegatesConcept\\DelegatesConcept\\DelegatesEx4_Multicast.cs",
+              "RelativeToolTip": "DelegatesConcept\\DelegatesEx4_Multicast.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwC0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T05:55:58.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DelegateEx3_MultiCast.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day7\\DelegatesConcept\\DelegatesConcept\\DelegateEx3_MultiCast.cs",
+              "RelativeDocumentMoniker": "DelegatesConcept\\DelegateEx3_MultiCast.cs",
+              "ToolTip": "E:\\WiproJuly\\Day7\\DelegatesConcept\\DelegatesConcept\\DelegateEx3_MultiCast.cs",
+              "RelativeToolTip": "DelegatesConcept\\DelegateEx3_MultiCast.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T05:46:47.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DelegatesEx2_parameter.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day7\\DelegatesConcept\\DelegatesConcept\\DelegatesEx2_parameter.cs",
+              "RelativeDocumentMoniker": "DelegatesConcept\\DelegatesEx2_parameter.cs",
+              "ToolTip": "E:\\WiproJuly\\Day7\\DelegatesConcept\\DelegatesConcept\\DelegatesEx2_parameter.cs",
+              "RelativeToolTip": "DelegatesConcept\\DelegatesEx2_parameter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T05:41:53.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DelegateEx1.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day7\\DelegatesConcept\\DelegatesConcept\\DelegateEx1.cs",
+              "RelativeDocumentMoniker": "DelegatesConcept\\DelegateEx1.cs",
+              "ToolTip": "E:\\WiproJuly\\Day7\\DelegatesConcept\\DelegatesConcept\\DelegateEx1.cs",
+              "RelativeToolTip": "DelegatesConcept\\DelegateEx1.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T04:37:43.241Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

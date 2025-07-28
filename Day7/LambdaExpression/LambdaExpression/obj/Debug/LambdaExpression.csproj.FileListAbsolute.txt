@@ -1,0 +1,8 @@
+E:\WiproJuly\Day7\LambdaExpression\LambdaExpression\bin\Debug\LambdaExpression.exe.config
+E:\WiproJuly\Day7\LambdaExpression\LambdaExpression\bin\Debug\LambdaExpression.exe
+E:\WiproJuly\Day7\LambdaExpression\LambdaExpression\bin\Debug\LambdaExpression.pdb
+E:\WiproJuly\Day7\LambdaExpression\LambdaExpression\obj\Debug\LambdaExpression.csproj.AssemblyReference.cache
+E:\WiproJuly\Day7\LambdaExpression\LambdaExpression\obj\Debug\LambdaExpression.csproj.CoreCompileInputs.cache
+E:\WiproJuly\Day7\LambdaExpression\LambdaExpression\obj\Debug\LambdaExpression.exe
+E:\WiproJuly\Day7\LambdaExpression\LambdaExpression\obj\Debug\LambdaExpression.pdb
+E:\WiproJuly\Day7\LambdaExpression\LambdaExpression\obj\Debug\LambdaExpression.exe.config

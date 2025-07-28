@@ -1,0 +1,11 @@
+E:\WiproJuly\Day7\ReflectionConcept\ReflectionConcept\bin\Debug\ReflectionConcept.exe.config
+E:\WiproJuly\Day7\ReflectionConcept\ReflectionConcept\bin\Debug\ReflectionConcept.exe
+E:\WiproJuly\Day7\ReflectionConcept\ReflectionConcept\bin\Debug\ReflectionConcept.pdb
+E:\WiproJuly\Day7\ReflectionConcept\ReflectionConcept\obj\Debug\ReflectionConcept.csproj.AssemblyReference.cache
+E:\WiproJuly\Day7\ReflectionConcept\ReflectionConcept\obj\Debug\ReflectionConcept.csproj.CoreCompileInputs.cache
+E:\WiproJuly\Day7\ReflectionConcept\ReflectionConcept\obj\Debug\ReflectionConcept.exe
+E:\WiproJuly\Day7\ReflectionConcept\ReflectionConcept\obj\Debug\ReflectionConcept.pdb
+E:\WiproJuly\Day7\ReflectionConcept\ReflectionConcept\obj\Debug\ReflectionConcept.exe.config
+E:\WiproJuly\Day7\ReflectionConcept\ReflectionConcept\bin\Debug\ClsReflectionLibraryExample.dll
+E:\WiproJuly\Day7\ReflectionConcept\ReflectionConcept\bin\Debug\ClsReflectionLibraryExample.pdb
+E:\WiproJuly\Day7\ReflectionConcept\ReflectionConcept\obj\Debug\Reflecti.D6FCD302.Up2Date
