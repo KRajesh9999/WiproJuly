@@ -1,0 +1,6 @@
+E:\WiproJuly\Day8\NUnitTestDemoProject\NUnitTestDemoProject\bin\Debug\NUnitTestDemoProject.dll
+E:\WiproJuly\Day8\NUnitTestDemoProject\NUnitTestDemoProject\bin\Debug\NUnitTestDemoProject.pdb
+E:\WiproJuly\Day8\NUnitTestDemoProject\NUnitTestDemoProject\obj\Debug\NUnitTestDemoProject.csproj.AssemblyReference.cache
+E:\WiproJuly\Day8\NUnitTestDemoProject\NUnitTestDemoProject\obj\Debug\NUnitTestDemoProject.csproj.CoreCompileInputs.cache
+E:\WiproJuly\Day8\NUnitTestDemoProject\NUnitTestDemoProject\obj\Debug\NUnitTestDemoProject.dll
+E:\WiproJuly\Day8\NUnitTestDemoProject\NUnitTestDemoProject\obj\Debug\NUnitTestDemoProject.pdb
