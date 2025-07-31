@@ -1,0 +1,8 @@
+E:\WiproJuly\Day10\SolidPrinciples_1_WithOutSrp\SolidPrinciples_1_WithOutSrp\bin\Debug\SolidPrinciples_1_WithOutSrp.exe.config
+E:\WiproJuly\Day10\SolidPrinciples_1_WithOutSrp\SolidPrinciples_1_WithOutSrp\bin\Debug\SolidPrinciples_1_WithOutSrp.exe
+E:\WiproJuly\Day10\SolidPrinciples_1_WithOutSrp\SolidPrinciples_1_WithOutSrp\bin\Debug\SolidPrinciples_1_WithOutSrp.pdb
+E:\WiproJuly\Day10\SolidPrinciples_1_WithOutSrp\SolidPrinciples_1_WithOutSrp\obj\Debug\SolidPrinciples_1_WithOutSrp.csproj.AssemblyReference.cache
+E:\WiproJuly\Day10\SolidPrinciples_1_WithOutSrp\SolidPrinciples_1_WithOutSrp\obj\Debug\SolidPrinciples_1_WithOutSrp.csproj.CoreCompileInputs.cache
+E:\WiproJuly\Day10\SolidPrinciples_1_WithOutSrp\SolidPrinciples_1_WithOutSrp\obj\Debug\SolidPrinciples_1_WithOutSrp.exe
+E:\WiproJuly\Day10\SolidPrinciples_1_WithOutSrp\SolidPrinciples_1_WithOutSrp\obj\Debug\SolidPrinciples_1_WithOutSrp.pdb
+E:\WiproJuly\Day10\SolidPrinciples_1_WithOutSrp\SolidPrinciples_1_WithOutSrp\obj\Debug\SolidPrinciples_1_WithOutSrp.exe.config

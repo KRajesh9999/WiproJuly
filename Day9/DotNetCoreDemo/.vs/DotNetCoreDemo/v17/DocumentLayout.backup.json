@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\WiproJuly\\Day9\\DotNetCoreDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59C72B9B-9DEE-43DB-9C09-C112863BB1C4}|DotNetCoreDemo\\DotNetCoreDemo.csproj|e:\\wiprojuly\\day9\\dotnetcoredemo\\dotnetcoredemo\\pages\\wipro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59C72B9B-9DEE-43DB-9C09-C112863BB1C4}|DotNetCoreDemo\\DotNetCoreDemo.csproj|solutionrelative:dotnetcoredemo\\pages\\wipro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C72B9B-9DEE-43DB-9C09-C112863BB1C4}|DotNetCoreDemo\\DotNetCoreDemo.csproj|e:\\wiprojuly\\day9\\dotnetcoredemo\\dotnetcoredemo\\models\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59C72B9B-9DEE-43DB-9C09-C112863BB1C4}|DotNetCoreDemo\\DotNetCoreDemo.csproj|solutionrelative:dotnetcoredemo\\models\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C72B9B-9DEE-43DB-9C09-C112863BB1C4}|DotNetCoreDemo\\DotNetCoreDemo.csproj|e:\\wiprojuly\\day9\\dotnetcoredemo\\dotnetcoredemo\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59C72B9B-9DEE-43DB-9C09-C112863BB1C4}|DotNetCoreDemo\\DotNetCoreDemo.csproj|solutionrelative:dotnetcoredemo\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C72B9B-9DEE-43DB-9C09-C112863BB1C4}|DotNetCoreDemo\\DotNetCoreDemo.csproj|e:\\wiprojuly\\day9\\dotnetcoredemo\\dotnetcoredemo\\pages\\employ details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59C72B9B-9DEE-43DB-9C09-C112863BB1C4}|DotNetCoreDemo\\DotNetCoreDemo.csproj|solutionrelative:dotnetcoredemo\\pages\\employ details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C72B9B-9DEE-43DB-9C09-C112863BB1C4}|DotNetCoreDemo\\DotNetCoreDemo.csproj|e:\\wiprojuly\\day9\\dotnetcoredemo\\dotnetcoredemo\\pages\\employ details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59C72B9B-9DEE-43DB-9C09-C112863BB1C4}|DotNetCoreDemo\\DotNetCoreDemo.csproj|solutionrelative:dotnetcoredemo\\pages\\employ details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employ Details.cshtml.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day9\\DotNetCoreDemo\\DotNetCoreDemo\\Pages\\Employ Details.cshtml.cs",
+              "RelativeDocumentMoniker": "DotNetCoreDemo\\Pages\\Employ Details.cshtml.cs",
+              "ToolTip": "E:\\WiproJuly\\Day9\\DotNetCoreDemo\\DotNetCoreDemo\\Pages\\Employ Details.cshtml.cs",
+              "RelativeToolTip": "DotNetCoreDemo\\Pages\\Employ Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T10:30:12.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employ Details.cshtml",
+              "DocumentMoniker": "E:\\WiproJuly\\Day9\\DotNetCoreDemo\\DotNetCoreDemo\\Pages\\Employ Details.cshtml",
+              "RelativeDocumentMoniker": "DotNetCoreDemo\\Pages\\Employ Details.cshtml",
+              "ToolTip": "E:\\WiproJuly\\Day9\\DotNetCoreDemo\\DotNetCoreDemo\\Pages\\Employ Details.cshtml",
+              "RelativeToolTip": "DotNetCoreDemo\\Pages\\Employ Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T10:29:59.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\WiproJuly\\Day9\\DotNetCoreDemo\\DotNetCoreDemo\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DotNetCoreDemo\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\WiproJuly\\Day9\\DotNetCoreDemo\\DotNetCoreDemo\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DotNetCoreDemo\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T09:16:51.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employ.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day9\\DotNetCoreDemo\\DotNetCoreDemo\\Models\\Employ.cs",
+              "RelativeDocumentMoniker": "DotNetCoreDemo\\Models\\Employ.cs",
+              "ToolTip": "E:\\WiproJuly\\Day9\\DotNetCoreDemo\\DotNetCoreDemo\\Models\\Employ.cs",
+              "RelativeToolTip": "DotNetCoreDemo\\Models\\Employ.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T10:15:28.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Wipro.cshtml",
+              "DocumentMoniker": "E:\\WiproJuly\\Day9\\DotNetCoreDemo\\DotNetCoreDemo\\Pages\\Wipro.cshtml",
+              "RelativeDocumentMoniker": "DotNetCoreDemo\\Pages\\Wipro.cshtml",
+              "ToolTip": "E:\\WiproJuly\\Day9\\DotNetCoreDemo\\DotNetCoreDemo\\Pages\\Wipro.cshtml",
+              "RelativeToolTip": "DotNetCoreDemo\\Pages\\Wipro.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T09:33:31.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

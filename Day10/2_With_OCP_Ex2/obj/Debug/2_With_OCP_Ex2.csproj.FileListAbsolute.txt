@@ -1,0 +1,8 @@
+E:\WiproJuly\Day10\2_With_OCP_Ex2\bin\Debug\2_With_OCP_Ex2.exe.config
+E:\WiproJuly\Day10\2_With_OCP_Ex2\bin\Debug\2_With_OCP_Ex2.exe
+E:\WiproJuly\Day10\2_With_OCP_Ex2\bin\Debug\2_With_OCP_Ex2.pdb
+E:\WiproJuly\Day10\2_With_OCP_Ex2\obj\Debug\2_With_OCP_Ex2.csproj.AssemblyReference.cache
+E:\WiproJuly\Day10\2_With_OCP_Ex2\obj\Debug\2_With_OCP_Ex2.csproj.CoreCompileInputs.cache
+E:\WiproJuly\Day10\2_With_OCP_Ex2\obj\Debug\2_With_OCP_Ex2.exe
+E:\WiproJuly\Day10\2_With_OCP_Ex2\obj\Debug\2_With_OCP_Ex2.pdb
+E:\WiproJuly\Day10\2_With_OCP_Ex2\obj\Debug\2_With_OCP_Ex2.exe.config

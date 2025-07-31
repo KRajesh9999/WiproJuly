@@ -1,0 +1,8 @@
+E:\WiproJuly\Day9\AttributesUsage_Custom\bin\Debug\AttributesUsage_Custom.exe.config
+E:\WiproJuly\Day9\AttributesUsage_Custom\bin\Debug\AttributesUsage_Custom.exe
+E:\WiproJuly\Day9\AttributesUsage_Custom\bin\Debug\AttributesUsage_Custom.pdb
+E:\WiproJuly\Day9\AttributesUsage_Custom\obj\Debug\AttributesUsage_Custom.csproj.AssemblyReference.cache
+E:\WiproJuly\Day9\AttributesUsage_Custom\obj\Debug\AttributesUsage_Custom.csproj.CoreCompileInputs.cache
+E:\WiproJuly\Day9\AttributesUsage_Custom\obj\Debug\AttributesUsage_Custom.exe
+E:\WiproJuly\Day9\AttributesUsage_Custom\obj\Debug\AttributesUsage_Custom.pdb
+E:\WiproJuly\Day9\AttributesUsage_Custom\obj\Debug\AttributesUsage_Custom.exe.config

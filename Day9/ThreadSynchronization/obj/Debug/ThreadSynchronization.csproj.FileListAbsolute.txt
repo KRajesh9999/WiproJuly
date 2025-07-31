@@ -1,0 +1,8 @@
+E:\WiproJuly\Day9\ThreadSynchronization\bin\Debug\ThreadSynchronization.exe.config
+E:\WiproJuly\Day9\ThreadSynchronization\bin\Debug\ThreadSynchronization.exe
+E:\WiproJuly\Day9\ThreadSynchronization\bin\Debug\ThreadSynchronization.pdb
+E:\WiproJuly\Day9\ThreadSynchronization\obj\Debug\ThreadSynchronization.csproj.AssemblyReference.cache
+E:\WiproJuly\Day9\ThreadSynchronization\obj\Debug\ThreadSynchronization.csproj.CoreCompileInputs.cache
+E:\WiproJuly\Day9\ThreadSynchronization\obj\Debug\ThreadSynchronization.exe
+E:\WiproJuly\Day9\ThreadSynchronization\obj\Debug\ThreadSynchronization.pdb
+E:\WiproJuly\Day9\ThreadSynchronization\obj\Debug\ThreadSynchronization.exe.config

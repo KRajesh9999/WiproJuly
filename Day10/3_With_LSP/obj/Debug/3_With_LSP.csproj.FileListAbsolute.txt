@@ -1,0 +1,7 @@
+E:\WiproJuly\Day10\3_With_LSP\bin\Debug\3_With_LSP.exe.config
+E:\WiproJuly\Day10\3_With_LSP\bin\Debug\3_With_LSP.exe
+E:\WiproJuly\Day10\3_With_LSP\bin\Debug\3_With_LSP.pdb
+E:\WiproJuly\Day10\3_With_LSP\obj\Debug\3_With_LSP.csproj.AssemblyReference.cache
+E:\WiproJuly\Day10\3_With_LSP\obj\Debug\3_With_LSP.csproj.CoreCompileInputs.cache
+E:\WiproJuly\Day10\3_With_LSP\obj\Debug\3_With_LSP.exe
+E:\WiproJuly\Day10\3_With_LSP\obj\Debug\3_With_LSP.pdb

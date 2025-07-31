@@ -1,0 +1,25 @@
+﻿@page
+@model DotNetCoreDemo.Pages.Employ_DetailsModel
+<h3>Employee data</h3>
+
+<table border="20">
+	<tr>
+		<th>Empno</th>
+
+		<th>Name</th>
+
+		<th>Basic</th>
+	</tr>
+	@foreach (var emp in Model.Employ)
+	{
+		<tr>
+
+			<td>@emp.Empno</td>
+
+			<td>@emp.Name</td>
+
+			<td>@emp.Basic</td>
+
+		</tr>
+	}
+</table>

@@ -1,0 +1,7 @@
+E:\WiproJuly\Day10\4_WithOut_ISP\bin\Debug\4_WithOut_ISP.exe.config
+E:\WiproJuly\Day10\4_WithOut_ISP\bin\Debug\4_WithOut_ISP.exe
+E:\WiproJuly\Day10\4_WithOut_ISP\bin\Debug\4_WithOut_ISP.pdb
+E:\WiproJuly\Day10\4_WithOut_ISP\obj\Debug\4_WithOut_ISP.csproj.AssemblyReference.cache
+E:\WiproJuly\Day10\4_WithOut_ISP\obj\Debug\4_WithOut_ISP.csproj.CoreCompileInputs.cache
+E:\WiproJuly\Day10\4_WithOut_ISP\obj\Debug\4_WithOut_ISP.exe
+E:\WiproJuly\Day10\4_WithOut_ISP\obj\Debug\4_WithOut_ISP.pdb

@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\WiproJuly\\Day9\\MultiThreading\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD56AEB-C795-48EC-B129-8B76AABFF463}|..\\CustomAttributes\\CustomAttributes.csproj|e:\\wiprojuly\\day9\\customattributes\\anubhav.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD56AEB-C795-48EC-B129-8B76AABFF463}|..\\CustomAttributes\\CustomAttributes.csproj|e:\\wiprojuly\\day9\\customattributes\\saiyaara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD56AEB-C795-48EC-B129-8B76AABFF463}|..\\CustomAttributes\\CustomAttributes.csproj|e:\\wiprojuly\\day9\\customattributes\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD56AEB-C795-48EC-B129-8B76AABFF463}|..\\CustomAttributes\\CustomAttributes.csproj|e:\\wiprojuly\\day9\\customattributes\\vendormain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD56AEB-C795-48EC-B129-8B76AABFF463}|..\\CustomAttributes\\CustomAttributes.csproj|e:\\wiprojuly\\day9\\customattributes\\vendorattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD56AEB-C795-48EC-B129-8B76AABFF463}|..\\CustomAttributes\\CustomAttributes.csproj|e:\\wiprojuly\\day9\\customattributes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F487A493-AB29-4944-9B78-C2E917AC2DEE}|..\\AttributesUsage_Custom\\AttributesUsage_Custom.csproj|e:\\wiprojuly\\day9\\attributesusage_custom\\studentattrmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F487A493-AB29-4944-9B78-C2E917AC2DEE}|..\\AttributesUsage_Custom\\AttributesUsage_Custom.csproj|e:\\wiprojuly\\day9\\attributesusage_custom\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F487A493-AB29-4944-9B78-C2E917AC2DEE}|..\\AttributesUsage_Custom\\AttributesUsage_Custom.csproj|e:\\wiprojuly\\day9\\attributesusage_custom\\informationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF07924-6FDD-4A21-A50A-39BFC25D81DA}|..\\ThreadSynchronization\\ThreadSynchronization.csproj|e:\\wiprojuly\\day9\\threadsynchronization\\syncex2_multtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF07924-6FDD-4A21-A50A-39BFC25D81DA}|..\\ThreadSynchronization\\ThreadSynchronization.csproj|e:\\wiprojuly\\day9\\threadsynchronization\\syncex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E13F89E-74A3-4440-82E8-992A3AE59384}|MultiThreading\\MultiThreading.csproj|e:\\wiprojuly\\day9\\multithreading\\multithreading\\threadex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E13F89E-74A3-4440-82E8-992A3AE59384}|MultiThreading\\MultiThreading.csproj|solutionrelative:multithreading\\threadex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VendorMain.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day9\\CustomAttributes\\VendorMain.cs",
+              "RelativeDocumentMoniker": "..\\CustomAttributes\\VendorMain.cs",
+              "ToolTip": "E:\\WiproJuly\\Day9\\CustomAttributes\\VendorMain.cs",
+              "RelativeToolTip": "..\\CustomAttributes\\VendorMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:31:06.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Demo.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day9\\CustomAttributes\\Demo.cs",
+              "RelativeDocumentMoniker": "..\\CustomAttributes\\Demo.cs",
+              "ToolTip": "E:\\WiproJuly\\Day9\\CustomAttributes\\Demo.cs",
+              "RelativeToolTip": "..\\CustomAttributes\\Demo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:28:37.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Anubhav.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day9\\CustomAttributes\\Anubhav.cs",
+              "RelativeDocumentMoniker": "..\\CustomAttributes\\Anubhav.cs",
+              "ToolTip": "E:\\WiproJuly\\Day9\\CustomAttributes\\Anubhav.cs",
+              "RelativeToolTip": "..\\CustomAttributes\\Anubhav.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:27:50.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Saiyaara.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day9\\CustomAttributes\\Saiyaara.cs",
+              "RelativeDocumentMoniker": "..\\CustomAttributes\\Saiyaara.cs",
+              "ToolTip": "E:\\WiproJuly\\Day9\\CustomAttributes\\Saiyaara.cs",
+              "RelativeToolTip": "..\\CustomAttributes\\Saiyaara.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:25:09.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VendorAttributes.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day9\\CustomAttributes\\VendorAttributes.cs",
+              "RelativeDocumentMoniker": "..\\CustomAttributes\\VendorAttributes.cs",
+              "ToolTip": "E:\\WiproJuly\\Day9\\CustomAttributes\\VendorAttributes.cs",
+              "RelativeToolTip": "..\\CustomAttributes\\VendorAttributes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:21:52.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day9\\CustomAttributes\\Program.cs",
+              "RelativeDocumentMoniker": "..\\CustomAttributes\\Program.cs",
+              "ToolTip": "E:\\WiproJuly\\Day9\\CustomAttributes\\Program.cs",
+              "RelativeToolTip": "..\\CustomAttributes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:21:03.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day9\\AttributesUsage_Custom\\Student.cs",
+              "RelativeDocumentMoniker": "..\\AttributesUsage_Custom\\Student.cs",
+              "ToolTip": "E:\\WiproJuly\\Day9\\AttributesUsage_Custom\\Student.cs",
+              "RelativeToolTip": "..\\AttributesUsage_Custom\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:12:43.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InformationAttribute.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day9\\AttributesUsage_Custom\\InformationAttribute.cs",
+              "RelativeDocumentMoniker": "..\\AttributesUsage_Custom\\InformationAttribute.cs",
+              "ToolTip": "E:\\WiproJuly\\Day9\\AttributesUsage_Custom\\InformationAttribute.cs",
+              "RelativeToolTip": "..\\AttributesUsage_Custom\\InformationAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:11:27.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentAttrMain.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day9\\AttributesUsage_Custom\\StudentAttrMain.cs",
+              "RelativeDocumentMoniker": "..\\AttributesUsage_Custom\\StudentAttrMain.cs",
+              "ToolTip": "E:\\WiproJuly\\Day9\\AttributesUsage_Custom\\StudentAttrMain.cs",
+              "RelativeToolTip": "..\\AttributesUsage_Custom\\StudentAttrMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:07:03.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SyncEx2_MultTable.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day9\\ThreadSynchronization\\SyncEx2_MultTable.cs",
+              "RelativeDocumentMoniker": "..\\ThreadSynchronization\\SyncEx2_MultTable.cs",
+              "ToolTip": "E:\\WiproJuly\\Day9\\ThreadSynchronization\\SyncEx2_MultTable.cs",
+              "RelativeToolTip": "..\\ThreadSynchronization\\SyncEx2_MultTable.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T06:22:08.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SyncEx1.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day9\\ThreadSynchronization\\SyncEx1.cs",
+              "RelativeDocumentMoniker": "..\\ThreadSynchronization\\SyncEx1.cs",
+              "ToolTip": "E:\\WiproJuly\\Day9\\ThreadSynchronization\\SyncEx1.cs",
+              "RelativeToolTip": "..\\ThreadSynchronization\\SyncEx1.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwCQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T06:13:31.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ThreadEx1.cs",
+              "DocumentMoniker": "E:\\WiproJuly\\Day9\\MultiThreading\\MultiThreading\\ThreadEx1.cs",
+              "RelativeDocumentMoniker": "MultiThreading\\ThreadEx1.cs",
+              "ToolTip": "E:\\WiproJuly\\Day9\\MultiThreading\\MultiThreading\\ThreadEx1.cs",
+              "RelativeToolTip": "MultiThreading\\ThreadEx1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T06:00:00.391Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
