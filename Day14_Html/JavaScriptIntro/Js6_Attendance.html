@@ -1,0 +1,39 @@
+<html>
+    <head>
+        <script>
+            function show() {
+                var result = "";
+                if (frmAttendance.chkRajesh.checked == true) {
+                    result += "Rajesh is Present...<br/>".fontcolor("green");
+                } else {
+                    result += "Rajesh is Absent...<br/>".fontcolor("red");
+                }
+                if (frmAttendance.chkRakesh.checked == true){
+                    result += "Rakesh is Present...<br/>".fontcolor("green");
+                } else {
+                    result += "Rakesh is Absent...<br/>".fontcolor("red");
+                }
+                if (frmAttendance.chkRamesh.checked == true) {
+                    result += "Ramesh is Present...<br/>".fontcolor("green");
+                } else {
+                    result += "Ramesh is Absent...<br/>".fontcolor("red");
+                }
+                document.getElementById("attendance").innerHTML = result;
+            }
+        </script>
+    </head>
+<body>
+    <form name="frmAttendance">
+        <center>
+            Rajesh : 
+            <input type="checkbox" name="chkRajesh" onchange="show()" /> <br/><br/>
+            Rakesh : 
+            <input type="checkbox" name="chkRakesh" onchange="show()" /> <br/><br/>
+            Ramesh : 
+            <input type="checkbox" name="chkRamesh" onchange="show()" /> <br/><br/>
+            <hr/>
+            <span id="attendance"></span>
+        </center>
+    </form>
+</body>
+</html>
