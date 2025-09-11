@@ -1,0 +1,724 @@
+Day 2
+------
+
+Attempt #2
+Aug 20, 8:07 PM
+Marks: 14
+Question 1
+Correct Answer
+Marks: 1/1
+
+Which Node.js Core Module is used for interacting with the file system?
+FS (File System)
+
+You Selected
+HTTP
+
+OS (Operating System)
+
+events (EventEmitter)
+
+Explanation: The fs module in Node.js provides functions for interacting with the file system, such as reading from and writing to files.
+
+Question 2
+Correct Answer
+Marks: 1/1
+
+Which Node.js Core Module is used for cryptographic operations?
+path
+
+OS (Operating System)
+
+util (Utilities)
+
+Crypto
+
+You Selected
+Explanation: The crypto module in Node.js provides cryptographic functionality, including encryption, decryption, and hashing.
+
+Question 3
+Correct Answer
+Marks: 1/1
+
+How do you create an HTTP server in Node.js using the http module?
+http.newServer()
+
+http.createServer()
+
+You Selected
+http.createServerInstance()
+
+http.startServer()
+
+Explanation: http.createServer() is used to create an HTTP server instance in Node.js.
+
+Question 4
+Correct Answer
+Marks: 1/1
+
+How do you listen for events in Node.js using the events module?
+emitter.on()
+
+You Selected
+emitter.listen()
+
+emitter.emit()
+
+emitter.receive()
+
+Explanation: emitter.on() is used to listen for events in Node.js using the events module.
+
+Question 5
+Correct Answer
+Marks: 1/1
+
+What does the querystring module in Node.js primarily facilitate?
+Handling HTTP requests and responses
+
+Performing operating system-related tasks
+
+Manipulating query parameters in URLs
+
+You Selected
+Manipulating files and directories
+
+Explanation: The querystring module provides utilities for parsing and formatting URL query strings
+
+Question 6
+Correct Answer
+Marks: 1/1
+
+Which method is used to encrypt data using the crypto module in Node.js?
+crypto.encrypt()
+
+crypto.cipher()
+
+crypto.createCipher()
+
+You Selected
+crypto.encode()
+
+Explanation: crypto.createCipher() is used to create a Cipher object for encryption.
+
+Question 7
+Correct Answer
+Marks: 1/1
+
+Which method is used to join multiple path segments using the path module in Node.js?
+path.concat()
+
+path.join()
+
+You Selected
+path.merge()
+
+path.combine()
+
+Explanation: path.join() method joins all given path segments together.
+
+Question 8
+Correct Answer
+Marks: 1/1
+
+How can you add a new event listener in the events module of Node.js?
+emitter.on()
+
+emitter.addEventListener()
+
+emitter.bind()
+
+emitter.addListener()
+
+You Selected
+Explanation: addListener() method is used to add a new event listener to the specified event.
+
+Question 9
+Correct Answer
+Marks: 1/1
+
+How can you retrieve information about the current user's home directory using the os module in Node.js?
+os.homeDir()
+
+os.getHomeDirectory()
+
+os.homedir()
+
+You Selected
+os.getCurrentUserDirectory()
+
+Explanation: os.homedir() method returns the home directory of the current user.
+
+Question 10
+Correct Answer
+Marks: 1/1
+
+Which method is used to get the file name from a file path using the path module in Node.js?
+path.basename()
+
+You Selected
+path.filename()
+
+path.getFileName()
+
+path.file()
+
+Explanation: path.basename() method returns the last portion of a path.
+
+Question 11
+Correct Answer
+Marks: 1/1
+
+Which method is used to emit an event in the events module of Node.js?
+emitter.emitEvent()
+
+emitter.emit()
+
+You Selected
+emitter.dispatch()
+
+emitter.trigger()
+
+Explanation: emit() method is used to trigger an event.
+
+Question 12
+Correct Answer
+Marks: 1/1
+
+What is the role of the util module's promisify method in Node.js?
+To perform asynchronous file operations
+
+To handle HTTP requests and responses
+
+To manipulate query parameters in URLs
+
+To convert callback-based functions into Promise-based functions
+
+You Selected
+Explanation: The util.promisify method is used to convert callback-based functions into Promise-based functions.
+
+Question 13
+Correct Answer
+Marks: 1/1
+
+What is the primary purpose of the crypto module in Node.js?
+To handle HTTP requests and responses
+
+To manipulate query parameters in URLs
+
+To perform cryptographic operations
+
+You Selected
+To interact with the operating system's file system
+
+Explanation: The crypto module provides cryptographic functionality such as encryption, decryption, hashing, and more.
+
+Question 14
+Correct Answer
+Marks: 1/1
+
+How can you stringify JavaScript objects into query parameters using the querystring module in Node.js?
+querystring.stringify()
+
+You Selected
+querystring.format()
+
+querystring.stringifyParams()
+
+querystring.serialize()
+
+Explanation: querystring.stringify() method is used to serialize JavaScript objects into query string format.
+
+
+Day-3
+-------
+
+Attempt #3
+Aug 20, 8:52 PM
+Marks: 15
+Question 1
+Correct Answer
+Marks: 1/1
+
+Which of the following best describes asynchronous programming in Node.js?
+It allows multiple tasks to be executed concurrently.
+
+It executes tasks sequentially, one after the other.
+
+It executes tasks in parallel.
+
+It allows tasks to be executed non-sequentially.
+
+You Selected
+Explanation: Asynchronous programming in Node.js enables tasks to be executed non-sequentially, allowing for improved performance by avoiding blocking operations.
+
+Question 2
+Correct Answer
+Marks: 1/1
+
+In Node.js, which mechanism is primarily used for handling asynchronous operations?
+Event Loop
+
+You Selected
+Callbacks
+
+Promises
+
+Async/Await
+
+Explanation: The Event Loop is the mechanism in Node.js that allows asynchronous operations to be handled efficiently.
+
+Question 3
+Correct Answer
+Marks: 1/1
+
+Which of the following is a disadvantage of using callbacks in Node.js?
+Inability to handle errors
+
+Limited functionality
+
+Complex nested structure
+
+You Selected
+Synchronous execution
+
+Explanation: Callbacks can lead to complex nested structures known as "callback hell," making the code difficult to read and maintain.
+
+Question 4
+Correct Answer
+Marks: 1/1
+
+In Node.js, what problem does "callback hell" refer to?
+Excessive use of callbacks leading to memory leaks
+
+Complex and unreadable nested callback structures
+
+You Selected
+Inability to handle errors using callbacks
+
+Asynchronous tasks executed synchronously
+
+Explanation: "Callback hell" refers to the situation where multiple nested callbacks make the code complex and hard to maintain.
+
+Question 5
+Correct Answer
+Marks: 1/1
+
+Which of the following methods can be used to avoid callback hell in Node.js?
+Using synchronous functions
+
+Using synchronous functions
+
+Using promises
+
+You Selected
+Increasing stack size
+
+Explanation: Promises provide a cleaner and more readable way to handle asynchronous operations compared to nested callbacks.
+
+Question 6
+Correct Answer
+Marks: 1/1
+
+Which of the following states can a Promise be in?
+Completed
+
+Pending
+
+Rejected
+
+All of the above
+
+You Selected
+Explanation: A Promise can be in one of three states: pending (initial state), fulfilled (completed successfully), or rejected (failed).
+
+Question 7
+Correct Answer
+Marks: 1/1
+
+What is chaining in Promise handling in Node.js?
+Executing multiple promises in parallel
+
+Passing a Promise as an argument to another Promise
+
+Converting promises to synchronous functions
+
+Sequentially executing multiple asynchronous operations using promises
+
+You Selected
+Explanation: Chaining in Promise handling involves sequentially executing multiple asynchronous operations by chaining .then() methods.
+
+Question 8
+Correct Answer
+Marks: 1/1
+
+What is Promise.all() used for in Node.js?
+Executes multiple promises in parallel and resolves when all promises are resolved
+
+You Selected
+Executes multiple promises sequentially
+
+Rejects if any of the promises are rejected
+
+Executes a single promise multiple times
+
+Explanation: Promise.all() executes multiple promises in parallel and resolves when all promises are resolved. If any promise rejects, the entire Promise.all() will reject.
+
+Question 9
+Correct Answer
+Marks: 1/1
+
+What does the async keyword do in a function declaration in Node.js?
+Indicates that the function will execute asynchronously
+
+Converts the function into a Promise
+
+You Selected
+Forces the function to execute synchronously
+
+Enables callback handling in the function
+
+Explanation: The async keyword converts a function into a Promise, allowing the use of await inside it.
+
+Question 10
+Correct Answer
+Marks: 1/1
+
+What does the await keyword do in Node.js?
+Suspends the execution of the async function until the Promise is settled
+
+You Selected
+Forces the function to execute asynchronously
+
+Executes the function synchronously
+
+Throws an error if the Promise is rejected
+
+Explanation: The await keyword pauses the execution of an async function until the Promise is settled (either fulfilled or rejected).
+
+Question 11
+Correct Answer
+Marks: 1/1
+
+In Node.js, which method is commonly used for handling uncaught exceptions?
+try/catch blocks
+
+Using event emitters
+
+process.on('uncaughtException')
+
+You Selected
+fs.writeFileSync()
+
+Explanation: The process.on('uncaughtException') method is commonly used for handling uncaught exceptions globally in Node.js.
+
+Question 12
+Correct Answer
+Marks: 1/1
+
+What is the recommended approach for handling errors in event-driven applications in Node.js?
+Using try/catch blocks
+
+Using event emitters
+
+You Selected
+Using callback functions
+
+Using Promises
+
+Explanation: In event-driven applications, errors are commonly handled using event emitters to emit error events, which can be listened to and handled appropriately.
+
+Question 13
+Correct Answer
+Marks: 1/1
+
+Which of the following is NOT a common method for error handling in Node.js?
+Using Promise.catch() method
+
+Using event emitters
+
+Using try/catch blocks
+
+Using callbacks
+
+You Selected
+Explanation: Callbacks are primarily used for asynchronous operations, not error handling.
+
+Question 14
+Correct Answer
+Marks: 1/1
+
+What is the purpose of the catch method in Promise error handling in Node.js?
+
+ 
+
+To handle errors thrown by asynchronous operations
+
+You Selected
+To handle successful resolutions of a Promise
+
+To reject a Promise
+
+To handle errors thrown by synchronous operations
+
+Explanation: The catch method in Promise error handling is used to handle errors thrown by asynchronous operations.
+
+Question 15
+Correct Answer
+Marks: 1/1
+
+Which of the following is NOT a characteristic of asynchronous programming in Node.js?
+Parallel execution of tasks
+
+Non-blocking I/O operations
+
+Improved performance
+
+Sequential execution of tasks
+
+You Selected
+Explanation: Asynchronous programming allows tasks to be executed non-sequentially, not sequentially.
+
+Day-4
+-------
+Attempt #2
+Aug 20, 8:47 PM
+Marks: 15
+Question 1
+Correct Answer
+Marks: 1/1
+
+What is Express.js?
+A database management system
+
+A frontend JavaScript framework
+
+A web application framework for Node.js
+
+You Selected
+A cloud computing platform
+
+Explanation: Express.js is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
+
+Question 2
+Correct Answer
+Marks: 1/1
+
+Which of the following best describes the routing mechanism in Express.js?
+Static routing
+
+Dynamic routing
+
+Both A & B
+
+You Selected
+None of the above
+
+Explanation: Express.js supports both static and dynamic routing, allowing developers to define routes based on fixed URLs or with parameters.
+
+Question 3
+Correct Answer
+Marks: 1/1
+
+What is the purpose of middleware in Express.js?
+To serve static files
+
+To handle HTTP requests and responses
+
+You Selected
+To define route paths
+
+To establish database connections
+
+Explanation: Middleware functions in Express.js have access to the HTTP request and response objects and can perform tasks such as parsing request bodies, authentication, logging, etc.
+
+Question 4
+Correct Answer
+Marks: 1/1
+
+Which other web framework heavily influenced the design of Express.js?
+Django
+
+Flask
+
+Ruby on Rails
+
+Sinatra
+
+You Selected
+Explanation: Express.js was heavily influenced by the minimalist web framework Sinatra, which is for Ruby.
+
+Question 5
+Correct Answer
+Marks: 1/1
+
+Which major event in the JavaScript ecosystem contributed to the rise of Express.js?
+Introduction of Node.js
+
+You Selected
+Launch of Node Package Manager (npm)
+
+Release of jQuery library
+
+Introduction of ECMAScript 6
+
+Explanation: Express.js gained popularity with the rise of Node.js as it provided a convenient way to build web applications on top of Node.js.
+
+Question 6
+Correct Answer
+Marks: 1/1
+
+Which of the following is NOT a feature of Express.js?
+Middleware support
+
+Templating engine integration
+
+Automatic database schema generation
+
+You Selected
+Routing
+
+Explanation: Express.js does not provide automatic database schema generation.
+
+Question 7
+Correct Answer
+Marks: 1/1
+
+Express.js allows integration with which templating engines?
+EJS
+
+Pug (formerly Jade)
+
+Handlebars
+
+All of the above
+
+You Selected
+Explanation: Express.js provides integration with various templating engines including EJS, Pug, Handlebars, and more.
+
+Question 8
+Correct Answer
+Marks: 1/1
+
+What is a significant advantage of Express.js over the vanilla Node.js HTTP server?
+Express.js provides built-in support for HTTPS
+
+Express.js simplifies routing and middleware handling
+
+You Selected
+Express.js offers automatic scaling of applications
+
+Express.js includes a graphical user interface for monitoring
+
+Explanation: Express.js abstracts away many complexities of the Node.js HTTP server, making routing and middleware handling more straightforward.
+
+Question 9
+Correct Answer
+Marks: 1/1
+
+Which feature of Express.js enables the creation of RESTful APIs effortlessly?
+Routing
+
+You Selected
+Middleware
+
+Templating
+
+Static file serving
+
+Explanation: Express.js provides powerful routing capabilities that are particularly useful for creating RESTful APIs.
+
+Question 10
+Correct Answer
+Marks: 1/1
+
+Express.js is often described as "minimalist." What does this mean?
+It has minimal features
+
+It has a small codebase
+
+It allows developers to use only the components they need
+
+You Selected
+It has minimal documentation
+
+Explanation: Express.js is minimalist in the sense that it provides a basic framework and allows developers to add only the necessary components for their application.
+
+Question 11
+Correct Answer
+Marks: 1/1
+
+How does Express.js facilitate the creation of custom middleware?
+By providing a built-in middleware generator
+
+You Selected
+By allowing direct modification of the core framework
+
+By encouraging developers to use third-party middleware exclusively
+
+By providing comprehensive documentation on middleware creation
+
+Explanation: Express.js provides a built-in middleware generator that simplifies the creation of custom middleware functions.
+
+Question 12
+Correct Answer
+Marks: 1/1
+
+Which aspect of Express.js contributes most to its minimalistic nature?
+Absence of routing capabilities
+
+Lack of documentation
+
+Limited functionality
+
+Small file size
+
+You Selected
+Explanation: Express.js is known for its small file size, which contributes to its minimalistic nature.
+
+Question 13
+Correct Answer
+Marks: 1/1
+
+Which of the following best describes the flexibility of Express.js?
+It enforces strict design patterns
+
+It restricts the use of external libraries
+
+It allows developers to choose their preferred middleware and libraries
+
+You Selected
+It supports only one templating engine
+
+Explanation: Express.js offers flexibility by allowing developers to choose from a wide range of middleware and libraries according to their project requirements.
+
+Question 14
+Correct Answer
+Marks: 1/1
+
+Express.js is built on top of which core Node.js module?
+HTTP
+
+You Selected
+FS
+
+URL
+
+path
+
+Explanation: Express.js is built on top of the core Node.js HTTP module to provide an easier way to build web applications
+
+Question 15
+Correct Answer
+Marks: 1/1
+
+How does Express.js facilitate error handling, and what advantage does it offer over traditional error handling in Node.js?
+Express.js provides a global error handler, ensuring centralized error management, unlike Node.js, which relies on scattered try-catch blocks.
+
+Express.js automatically logs errors to a centralized server, reducing the need for manual error tracking, unlike Node.js, where logging must be implemented separately.
+
+Express.js integrates with third-party error tracking services, offering real-time monitoring and analytics, a feature absent in native Node.js error handling.
+
+Express.js abstracts error handling with middleware, allowing developers to chain error-handling functions for specific routes, enhancing code organization and maintainability, a feature lacking in Node.js.
+
+You Selected
+Explanation: Express.js allows developers to define error-handling middleware functions that are executed when errors occur during request processing. These middleware functions can be chained to specific routes, providing a more organized and maintainable approach to error handling compared to traditional scattered try-catch blocks in Node.js. This abstraction enhances code readability and simplifies error management in complex applications.

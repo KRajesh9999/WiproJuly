@@ -1,0 +1,141 @@
+"1. Product Catalog MongoDB Schema Design"
+
+{
+  "_id": ObjectId,         // MongoDB unique ID
+  "name": "string",        // Product name
+  "category": "string",    // Category (e.g., Electronics, Clothing)
+  "price": "decimal",      // Price in INR/USD
+  "stock": "number",       // Stock quantity
+  "description": "string", // Optional: product description
+  "attributes": {          // Dynamic attributes per category
+    "color": "string",
+    "size": "string",
+    "brand": "string"
+  },
+  "createdAt": "date"
+}
+
+
+// Sample Documents:
+
+// Electronics product
+db.ProductCatalogSystem.inser(
+{
+  "name": "Samsung Galaxy S24",
+  "category": "Electronics",
+  "price": 74999,
+  "stock": 120,
+  "description": "Latest flagship smartphone",
+  "attributes": {
+    "color": "Phantom Black",
+    "storage": "256GB",
+    "brand": "Samsung"
+  },
+  "createdAt": ISODate("2025-08-01T10:00:00Z")
+}
+)
+
+// Clothing product
+{
+  "name": "Levi's Denim Jacket",
+  "category": "Clothing",
+  "price": 3999,
+  "stock": 80,
+  "attributes": {
+    "color": "Blue",
+    "size": "L",
+    "brand": "Levi's"
+  },
+  "createdAt": ISODate("2025-08-05T12:30:00Z")
+}
+
+// 2. Customer Orders
+
+// Schema Design
+
+{
+  "_id": ObjectId,
+  "userId": ObjectId,         // Reference to user
+  "orderDate": "date",
+  "products": [
+    {
+      "productId": ObjectId,  // Reference to product
+      "name": "string",       // Snapshot of product name at purchase
+      "price": "decimal",     // Price at purchase time
+      "quantity": "number"
+    }
+  ],
+  "totalCost": "decimal",
+  "status": "string"          // e.g., Pending, Shipped, Delivered
+}
+
+
+// Sample Documents
+
+{
+  "userId": ObjectId("66bcae9e2f1d3a1f88a1b1a1"),
+  "orderDate": ISODate("2025-08-10T15:30:00Z"),
+  "products": [
+    {
+      "productId": ObjectId("66bcae9e2f1d3a1f88a1c1c1"),
+      "name": "Samsung Galaxy S24",
+      "price": 74999,
+      "quantity": 1
+    },
+    {
+      "productId": ObjectId("66bcae9e2f1d3a1f88a1c1c2"),
+      "name": "Levi's Denim Jacket",
+      "price": 3999,
+      "quantity": 2
+    }
+  ],
+  "totalCost": 82997,
+  "status": "Pending"
+}
+
+
+// 3. User Authentication
+//Schema Design
+
+{
+  "_id": ObjectId,
+  "username": "string",
+  "email": "string",
+  "passwordHash": "string",   // Store hashed password, never plain text
+  "createdAt": "date",
+  "lastLogin": "date"
+}
+
+//Sample Documents
+{
+  "username": "rajesh_k",
+  "email": "rajesh@example.com",
+  "passwordHash": "$2b$10$abCDeFGHiJKLmnoPqRstUvWXyz", 
+  "createdAt": ISODate("2025-08-01T08:00:00Z"),
+  "lastLogin": ISODate("2025-08-15T07:15:00Z")
+}
+
+// 4. Querying and Indexing
+
+// Indexes
+db.products.createIndex({ category: 1 });
+db.products.createIndex({ name: "text" });
+
+db.orders.createIndex({ userId: 1, orderDate: -1 });
+
+db.users.createIndex({ email: 1 }, { unique: true });
+
+
+//Sample Queries:
+
+// 1. Find all products in "Electronics" category
+db.products.find({ category: "Electronics" });
+
+// 2. Search products by name keyword
+db.products.find({ $text: { $search: "Samsung" } });
+
+// 3. Get all orders for a specific user
+db.orders.find({ userId: ObjectId("66bcae9e2f1d3a1f88a1b1a1") }).sort({ orderDate: -1 });
+
+// 4. Authenticate user by email
+db.users.findOne({ email: "rajesh@example.com" });

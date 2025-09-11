@@ -1,0 +1,387 @@
+1. Coding Assignment: Unit Testing Basics in .NET
+
+Objective: Develop a basic .NET class library and write unit tests using a testing framework.
+
+Problem Statement
+Create a simple .NET class library that implements a basic calculator with arithmetic operations.
+Then, write unit tests for this class using a testing framework of your choice (NUnit)
+
+User Stories and Expectations
+
+User Story 1: Implement Calculator
+● As a developer: you need to create a simple calculator class that supports basic
+arithmetic operations.
+
+● Acceptance Criteria:
+○ Implement a class Calculator with methods for addition, subtraction,
+multiplication, and division.
+
+○ Methods:
+■ Add(double a, double b)
+■ Subtract(double a, double b)
+■ Multiply(double a, double b)
+■ Divide(double a, double b):Handle division by zero with an
+appropriate exception.
+
+User Story 2: Setup Testing Framework
+● As a developer: you need to set up a testing framework and write unit tests for the
+calculator methods.
+
+● Acceptance Criteria:
+○ Choose a testing framework (NUnit).
+○ Create a test project in the same solution as your class library.
+○ Write test cases for each method in the Calculator class.
+
+User Story 3: Write Unit Tests
+
+● As a developer: you need to write unit tests to verify that the calculator methods work
+correctly.
+
+● Acceptance Criteria:
+○ Write test cases to verify:
+■ Correct results for valid inputs.
+■ Handling of division by zero.
+■ Correct results for edge cases (e.g., adding/subtracting zero).
+
+○ Use assertions to validate the test results (e.g., Assert.AreEqual,
+Assert.IsTrue).
+
+User Story 4: Test Execution and Reporting
+● As a developer: you need to run the tests, analyze the results, and handle any failures.
+
+● Acceptance Criteria:
+○ Run the tests using the chosen framework.
+○ Review the test results and ensure all tests pass.
+○ If any tests fail, debug and fix the issues.
+
+Assignment Steps
+Task 1: Implement Calculator
+1. Create a Calculator Class:
+○ Develop a Calculator class with methods for addition, subtraction,
+multiplication, and division.
+
+○ Ensure that the division method handles division by zero appropriately.
+
+Task 2: Write Unit Tests
+1. Create Test Class:
+○ Write test cases for each method in the Calculator class to verify functionality.
+
+Ensure test cases cover valid inputs, division by zero, and edge cases.
+
+Task 4: Test Execution and Reporting
+1. Run Tests:
+○ Use the Test Explorer in Visual Studio or command line tools to execute the tests.
+○ Review the results to ensure all tests pass.
+
+2. Debug and Fix Issues:
+○ If any tests fail, debug the issues in the Calculator class and fix them.
+
+Expectations
+● Code Implementation: Your Calculator class should be correctly implemented to
+perform basic arithmetic operations.
+● Unit Tests: Write comprehensive tests for each method, including edge cases and
+exception handling.
+● Testing Framework: Correctly set up and use the chosen testing framework.
+● Execution: Ensure that all tests pass and handle any failures appropriately.
+
+
+2. Coding Assignment: Building a Simple Library Management System
+
+Objective: Implement a basic library management system that includes functionality for adding,
+viewing, and managing books and borrowers. Write unit tests to ensure the system works
+correctly.
+
+Problem Statement
+You are tasked with developing a simple library management system that supports the following
+operations:
+1. Add New Book: Users should be able to add new books to the library with details
+such as title, author, and ISBN number.
+2. Register a Borrower: Users should be able to register new borrowers with their name
+and library card number.
+3. Borrow a Book: Borrowers should be able to borrow a book from the library.
+4. Return a Book: Borrowers should be able to return a book to the library.
+5. View Books and Borrowers: Users should be able to view a list of all books and
+borrowers.
+
+User Stories and Expectations
+
+User Story 1: Add a New Book
+● As a user, I want to be able to add a new book to the library.
+● Acceptance Criteria:
+○ The system should accept a book's title, author, and ISBN number.
+○ The system should store the book's details in a list.
+○ The system should confirm that the book has been added successfully.
+
+User Story 2: Register a Borrower
+● As a user, I want to be able to register a new borrower.
+● Acceptance Criteria:
+○ The system should accept the borrower's name and library card number.
+○ The system should store the borrower's details in a list.
+○ The system should confirm that the borrower has been registered successfully.
+
+User Story 3: Borrow a Book
+● As a borrower, I want to be able to borrow a book from the library.
+● Acceptance Criteria:
+○ The system should allow a borrower to select a book from the library.
+○ The system should mark the book as borrowed.
+○ The system should associate the borrowed book with the borrower's details.
+
+User Story 4: Return a Book
+● As a borrower, I want to be able to return a borrowed book to the library.
+● Acceptance Criteria:
+○ The system should allow a borrower to return a book.
+○ The system should mark the book as available for borrowing again.
+○ The system should update the borrower's record to reflect the returned book.
+
+User Story 5: View Books and Borrowers
+● As a user, I want to be able to view all books and borrowers.
+● Acceptance Criteria:
+○ The system should provide a list of all books in the library, showing their details
+and current status (available/borrowed).
+○ The system should provide a list of all borrowers, showing their details and
+borrowed books (if any).
+
+Coding Assignment
+
+Task 1: Implement Classes
+
+Create the following classes:
+1. Book
+○ Properties: Title, Author, ISBN, Is Borrowed
+○ Methods: Borrow(), Return()
+
+2. Borrower
+○ Properties: Name, LibraryCardNumber, BorrowedBooks (a list of books)
+○ Methods: BorrowBook(Book book), ReturnBook(Book book)
+
+3. Library
+○ Properties: Books (a list of books), Borrowers (a list of borrowers)
+○ Methods: AddBook(Book book), RegisterBorrower(Borrower
+borrower), BorrowBook(string isbn, string libraryCardNumber),
+ReturnBook(string isbn, string libraryCardNumber),
+ViewBooks(), ViewBorrowers()
+
+Task 2: Write Unit Tests
+Write unit tests for the following scenarios using NUnit
+
+1. Adding a Book:
+○ Test that a book is added correctly to the library.
+
+2. Registering a Borrower:
+○ Test that a borrower is registered correctly.
+
+3. Borrowing a Book:
+○ Test that a book can be borrowed and is marked as borrowed.
+○ Test that the book is correctly associated with the borrower.
+
+4. Returning a Book:
+○ Test that a book can be returned and is marked as available.
+○ Test that the book is correctly removed from the borrower's list.
+
+5. Viewing Books and Borrowers:
+○ Test that the list of books and borrowers is displayed correctly.
+
+
+3. 
+Objective: Implement a simple .NET application that demonstrates best practices in security,
+ reliability, and error handling. Write unit tests to validate the implementation.
+ Problem Statement
+
+You are tasked with developing a basic .NET application that includes secure user
+authentication, data encryption, and reliable error handling. The application should be a simple
+user management system with the following features:
+ 1. User Authentication: Users should be able to register and log in securely.
+ 2. Data Encryption: Sensitive user data should be encrypted.
+ 3. Error Handling and Logging: Implement proper error handling and logging
+ mechanisms.
+
+User Stories and Expectations
+ User Story 1: User Authentication
+ ● Asauser, Iwant to be able to register and log in securely.
+ ● Acceptance Criteria:
+ ○ Thesystem should allow users to register with a username and password.
+ ○ Passwords should be hashed before storing them in the database.
+ ○ Thesystem should allow users to log in using their username and password.
+ ○ Onlogin, the system should verify the hashed password and authenticate the
+ user.
+ 
+User Story 2: Data Encryption
+ ● Asadeveloper, I want to ensure that sensitive user data is encrypted.
+ ● Acceptance Criteria:
+ ○ Userpasswords should be hashed using a secure hashing algorithm (e.g.,
+ SHA-256).
+ ○ Implement encryption for any sensitive data stored in the application (e.g., user
+ details).
+ ○ Use.NETlibraries for encryption (e.g., System.Security.Cryptography).
+Daily Coding Assignment Wipro NGA .NET Cohort
+ 
+User Story 3: Error Handling
+ ● Asadeveloper, I want to handle errors reliably and log them appropriately.
+ ● Acceptance Criteria:
+ ○ Implement try-catch blocks to handle potential exceptions.
+ ○ Logerrors to a file or a logging service (e.g., using NLog, Serilog, or
+ log4net).
+ ○ Ensure that sensitive information is not exposed in error messages.
+ User Story 4: Logging
+ ● Asadeveloper, I want to monitor the application health and track errors through
+ logging.
+ ● Acceptance Criteria:
+ ○ Implement logging for successful operations and errors.
+ ○ Logrelevant information such as timestamps, error messages, and stack traces.
+ ○ Ensure that logs are saved to a file or a logging service for later review.
+ 
+Coding Assignment
+ 
+Task 1: Implement User Authentication
+ 1. Create a User Model:
+ ○ Properties: Username, HashedPassword
+ ○ Methods: Register(), Authenticate()
+ 2. Password Hashing:
+ ○ Useasecure hashing algorithm (e.g., SHA-256) to hash passwords before
+ storing them.
+ 3. Login System:
+ ○ Create a login method that verifies the hashed password and authenticates the
+ user.
+ 
+Task 2: Implement Data Encryption
+ 1. Encrypt Sensitive Data:
+ ○ Use.NET's encryption libraries to encrypt sensitive user details (e.g., AES
+ encryption).
+ 2. Decrypt Data:
+ ○ Implement a method to decrypt data when needed.
+ 
+Task 3: Implement Error Handling and Logging
+ 1. Error Handling:
+ ○ Usetry-catch blocks to handle exceptions and ensure that errors are managed
+ gracefully.
+ 2. Logging:
+ ○ Setupalogging framework (e.g., NLog, Serilog, or log4net).
+ ○ Logerrors and important events to a file or logging service.
+ 
+Task 4: Write Unit Tests
+ 1. Test User Authentication:
+ ○ Verify that users can register and log in correctly.
+ ○ Ensure that passwords are hashed and verified properly.
+ 2. Test Data Encryption:
+ ○ Verify that sensitive data is encrypted and decrypted correctly.
+ 3. Test Error Handling:
+ ○ Simulate errors and ensure that they are handled and logged appropriately.
+ 4. Test Logging:
+ ○ Verify that logs are written correctly and contain relevant information.
+ 
+Expectations
+ ● CodeQuality: Your code should follow best practices for security, reliability, and error
+ handling.
+ ● UnitTests: Ensure that all tests are written to cover the scenarios described and are
+ passing.
+ ● Documentation: Include comments and documentation where necessary to explain
+ your code and tests.
+ ● Submission: Submit your implementation of the application and unit tests as a single
+ project.
+
+
+
+4.
+ Coding Assignment: SOLID Principles and Design Patterns in .NET
+ Duration: 45 minutes each
+ First Assignment: Applying SOLID Principles
+ Objective: Refactor a given codebase to adhere to SOLID principles and ensure it is
+ well-structured and maintainable.
+ 
+Problem Statement
+ You have been provided with a basic implementation of a reporting system. The current code
+ does not adhere to SOLID principles, making it difficult to maintain and extend. Your task is to
+ refactor the code to follow SOLID principles.
+ 
+User Stories and Expectations
+ 
+User Story 1: Implement Single Responsibility Principle (SRP)
+ ● Asadeveloper, you need to refactor the existing code to ensure that each class has a
+ single responsibility.
+ ● Acceptance Criteria:
+ ○ Refactor the ReportManager class, which currently handles both report
+ generation and file saving, into separate classes.
+ ○ Create a ReportGenerator class responsible for generating reports and a
+ ReportSaver class responsible for saving reports.
+ 
+User Story 2: Apply Open/Closed Principle (OCP)
+ ● Asadeveloper, you need to refactor the code to ensure that it is open for extension but
+ closed for modification.
+ ● Acceptance Criteria:
+ ○ Refactor the ReportFormatter class to use an interface for formatting.
+ Implement different formatting strategies (e.g., PDF, Excel) without modifying the
+ existing ReportFormatter code.
+ 
+User Story 3: Implement Liskov Substitution Principle (LSP)
+ ● Asadeveloper, you need to ensure that subclasses can be substituted for their base
+ classes without affecting the correctness of the program.
+Daily Coding Assignment Wipro NGA .NET Cohort
+ ● Acceptance Criteria:
+ ○ Refactor the Report class hierarchy to ensure that derived classes correctly
+ override base class methods and can be used interchangeably with the base
+ class.
+ 
+User Story 4: Apply Interface Segregation Principle (ISP)
+ ● Asadeveloper, you need to ensure that clients are not forced to depend on interfaces
+ they do not use.
+ ● Acceptance Criteria:
+ ○ Refactor the IReport interface to split it into smaller, more focused interfaces.
+ Ensure that classes implementing the interfaces only need to implement methods
+ that are relevant to them.
+ 
+User Story 5: Implement Dependency Inversion Principle (DIP)
+ ● Asadeveloper, you need to refactor the code to ensure that high-level modules are not
+ dependent on low-level modules, but both depend on abstractions.
+ ● Acceptance Criteria:
+ ○ Refactor the ReportService class to depend on abstractions rather than
+ concrete implementations. Use dependency injection to provide the necessary
+ dependencies.
+ 
+Challenging Assignment Outcome
+ By completing this assignment, you should have a well-structured, maintainable, and extensible
+ codebase that adheres to SOLID principles. Your code should be easier to test, extend, and
+ maintain due to the separation of concerns and adherence to best practices.
+ Best Practices for Submission:
+ 1. Code Organization: Ensure that the refactored code is organized into meaningful
+ classes and interfaces.
+ 2. Documentation: Provide clear comments explaining the purpose of each class and
+ method, especially where refactoring was done.
+ 3. Testing: Include unit tests for the refactored code to verify that it meets the desired
+ functionality and adheres to SOLID principles.
+ 4. Commit History: Use meaningful commit messages to describe the changes made
+ during refactoring.
+ 
+Second Assignment: Design Patterns Implementation
+ Objective: Implement a basic example using a common design pattern to demonstrate its
+ application in .NET.
+ Problem Statement
+ You are required to implement a simple example using a common design pattern. Choose one
+ of the following patterns: Singleton, Factory, or Observer. Implement the pattern in a .NET
+ application and demonstrate its usage.
+ User Stories and Expectations
+ 
+User Story 1: Implement a Singleton Pattern
+ ● Asadeveloper, you need to implement the Singleton pattern to ensure that a class has
+ only one instance and provides a global point of access to it.
+ ● Acceptance Criteria:
+ ○ Implement a Logger class as a Singleton. Ensure that only one instance of
+ Logger is created and used throughout the application.
+ ○ Demonstrate the use of this Logger class in a sample application.
+ 
+User Story 2: Implement a Factory Pattern
+ ● Asadeveloper, you need to implement the Factory pattern to create objects without
+ specifying the exact class of object that will be created.
+ ● Acceptance Criteria:
+ ○ Implement a DocumentFactory class that creates different types of documents
+ (e.g., PDFDocument, WordDocument).
+ ○ Ensure that the factory method returns the correct type of document based on
+ input parameters.
+ 
+User Story 3: Implement an Observer Pattern
+ ● Asadeveloper, you need to implement the Observer pattern to allow objects to notify
+ other objects about changes in their state.
+ ● Acceptance Criteria:
+ ○ Implement a WeatherStation class that notifies observers (e.g.,
+ WeatherDisplay) when weather data changes.
+ ○ Ensure that observers can register, unregister, and receive updates from the
+ WeatherStation.

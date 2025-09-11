@@ -1,0 +1,885 @@
+1. Understanding SQL Queries: Filtering and Joining Tables
+
+Write an SQL query to retrieve the book titles and customer names for the books priced at $10 and above that have been ordered. Use the goodreads and orders tables.
+
+Table: goodreads
+Showing top 5 rows
+
+book_id	book_title	        author	     genre	        year_released country	publication	book_rating	awards_won number_of_reviews price
+1001	A Gentleman in Moscow	Amor Towles  Historical Fiction	2016	      US	Viking	        4.4	         10	   10200	     16.8
+1002	Ace the Data Science    Nick Singh   Non-Fiction	2021	      US	John    	4.5	         8	   850	             31
+1003	Atomic Habits	        James Clear  Self-Help	        2018	      US	Avery	        4.8	         10	   13000	     14.99
+1004	To Kill a Mockingbird	Harper Lee	Fiction	1960	USA	J.B. Lippincott & Co.	4.27	3	1000	10.99
+
+Table: orders
+Showing top 5 rows
+
+order_id	customer_id	book_id	order_date	quantity
+2001		5001	1003	2023-01-15		2
+2002		5002	1008	2023-02-03		1
+2003		5001	1002	2023-02-08		3
+2004		5003	1005	2023-02-12		1
+2005		5004	1001	2023-02-18		2
+
+Table: deliveries
+Showing top 5 rows
+
+delivery_id	order_id	delivery_date	delivery_status
+3001		2001		2023-01-20	Delivered
+3002		2002		2023-02-05	Shipped
+3003		2003		2023-02-15	Delivered
+3004		2004		2023-02-20	Delivered
+3005		2005		2023-02-25	Delivered
+
+Note: Test your code before submitting the quiz
+
+Description: In SQL, filtering and joining tables are fundamental skills. These operations allow users to extract relevant information from large datasets, refine results based on specified criteria, and combine data from multiple tables for a comprehensive analysis. By mastering these techniques, developers gain the ability to efficiently retrieve data that satisfies specific conditions and gain valuable insights from complex relational databases.
+
+Syntax: To filter data in SQL, the WHERE clause is used to specify conditions that the retrieved rows must meet. The syntax generally involves selecting the desired columns and filtering rows based on one or more conditions. The JOIN operation combines rows from two or more tables based on a related column. The syntax specifies the tables to be joined and the condition for the join.
+
+Explanation of Syntax: In this scenario, an SQL query is required to find out how many books priced at $20 and above have been ordered, and who the buyers are. The SELECT statement is used to retrieve the book titles and customer names from the goodreads and orders tables, respectively. The JOIN operation is performed on the two tables using the book_id column. A The WHERE clause is used to filter the rows where the book price is $10 or above.
+
+Applications: Filtering and joining tables are quintessential operations in SQL programming. They find applications in various scenarios, including generating data reports, analyzing sales data, tracking customer behavior, and identifying patterns in large datasets. These techniques enable developers to extract precise information from relational databases and derive meaningful insights for decision-making and data-driven analyses.
+
+Solution:
+SELECT g.book_title, o.customer_id
+FROM goodreads g
+JOIN orders o 
+    ON g.book_id = o.book_id
+WHERE g.price >= 10;
+
+
+
+
+2. 
+Total Quantity of Spare Parts for a Vehicle Model
+
+We have a table named SpareParts that contains information about various spare parts, 
+including the quantity available arki the vehicle model they belong to.
+	
+Now, write a SQL query to get the total quantity of all spare parts for a particular vehicle model.
+
+Sample Output:	
+	Total Quantity
+	35
+
+
+Table: dealerships
+Showing top 5 rows
+
+DealershipID	Location			TotalSales	TotalRevenue
+1		81858 Miranda Extensions Suite 	154		93546
+2		398 Henry Parkway\nMarthabury, 	423		93523
+3		662 Rebecca Valley\nMendozamou 	345		27027
+4		32814 Hill Orchard Apt. 657\	37		37916
+5		136 Rodriguez Tunnel Suite 647\	310		75689
+
+Table: insuranceclaims
+Showing top 5 rows
+
+ClaimID	VehicleID	ClaimDate	ClaimAmount	ClaimType
+1	32		2022-12-23	9127		sold
+2	3		2023-07-07	1760		rental
+3	22		2022-11-25	9471		sold
+4	95		2023-06-08	2788		sold
+5	32		2022-10-11	2257		sold
+
+Table: rentals
+Showing top 5 rows
+
+RentalID	VehicleID	CustomerID	RentalStartDate	RentalEndDate	TotalRentalCost
+1		22		59		2022-07-24	2023-10-09	7459
+2		72		81		2023-06-25	2023-08-06	7908
+3		35		77		2022-12-12	2024-03-28	7970
+4		42		60		2023-04-17	2023-11-14	7288
+5		55		57		2022-10-16	2024-03-07	1551
+
+Table: spareparts
+Showing top 5 rows
+
+PartID	Name	Quantity	Model
+1	set	53		seem
+2	security66		people
+3	owner	35		four
+4	indicate41		young
+5	see	61		occur
+
+Table: trafficviolations
+Showing top 5 rows
+
+ViolationID	VehicleID	ViolationDate	FineAmount
+1		73		2023-06-05	388
+2		46		2022-08-17	346
+3		82		2023-03-06	113
+4		83		2023-03-07	222
+5		30		2023-01-24	369
+
+Table: vehicles
+Showing top 5 rows
+
+VehicleID	Model		Type	DealershipID	LastMaintenanceDate
+1		sometimes	sedan	23		2023-02-06
+2		capital		truck	51		2023-01-21
+3		evidence	SUV	6		2023-05-03
+4		use		motor	78		2023-04-03
+5		send		SUV	48		2023-06-28
+
+Note: Test your code before submitting the quiz
+
+Description: In SQL, it is often necessary to calculate aggregate values based on specific conditions. To get the total quantity of spare parts for a particular vehicle model, we can use the SUN function along with the WHERE clause to filter the data.
+
+Syntax: The syntax for this query Involves selecting the SUM of the Quantity column from the SpareParts table. The WHERE clause is used to specify the desired vehicle model.
+
+Explanation of Syntax: The sun function calculates the total sum of the Quantity column, which represents the quantity of spare parts. The WHERE clause filters the data based on the specified vehicle model, allowing us to obtain the total quantity for that particular model.
+
+Applications: This query can be useful in inventory management systems, allowing users to quickly determine the total quantity of spare parts available for a specific vehicle model. It can also be used for reporting purposes or to identify any shortages or excesses of spare parts for a particular model
+
+
+1
+-- Write your query below
+SELECT COALESCE(SUM(Quantity), 0) AS TotalQuantity
+FROM spareparts
+WHERE Model = 'four';
+
+
+3.
+Establishing Foreign Key Relationship in MySQL
+
+We do have two tables named Department and Employee tables, the task at hand is to create a foreign key relationship with respect to Department table with Employee table.
+
+Note: Due to compatibility, we can't make use of ALTER TABLE AND FOREIGN KEY constraint. Instead, create a new table with name "Employees" by enabling the Foreign Key constraint in the table creation and the Insert the respective values of "Employee" table into the "Employees" table and drop the table the "Employee" table.
+
+Table: Departments
+Showing top 5 rows
+
+department_id	department_name
+1		HR
+2		IT
+3		Marketing
+
+Table: Employees
+Showing top 5 rows
+
+employee_id	first_name	last_name	department_id
+1		John		Doe		2
+2		Jane		Smith		1
+3		Bob		Johnson		3
+4		Alice		Williams	1
+
+Note: Test your code before submitting the quiz
+
+Establishing Foreign Key Relationship in MySQL
+
+Problem
+
+Topic Help
+Description: In MySQL, a foreign key is a column or a set of columns in a table that refers to the primary key of another table. It establishes a relationship between two tables, ensuring data integrity and enforcing referential integrity constraints.
+
+Syntax: To establish a foreign key relationship, the FOREIGN KEY constraint is used. It is defined in the child table and references the primary key of the parent table. The syntax for creating a foreign key is as follows:
+CREATE TABLE child table (
+column1 datatype,
+column2 datatype,
+FOREIGN KEY (column_name) REFERENCES parent_table (parent_column_name)
+);
+Explanation of Syntax: The FOREIGN KEY constraint is added to the child table, specifying the column that will act as the foreign key. It references the parent table and the corresponding column in the parent table that serves as the primary key.
+
+Solution:
+1
+-- Write your query below 
+-- DROP TABLE IF EXISTS Employees;
+
+-- CREATE TABLE Employees (
+--   employee_id   INT          NOT NULL,
+--   first_name    VARCHAR(100) NOT NULL,
+--   last_name     VARCHAR(100) NOT NULL,
+--   department_id INT          NOT NULL,
+--   PRIMARY KEY (employee_id),
+--   CONSTRAINT fk_employees_department
+--     FOREIGN KEY (department_id) REFERENCES Departments(department_id)
+--     ON UPDATE CASCADE
+--     ON DELETE RESTRICT
+-- );
+
+-- INSERT INTO Employees (employee_id, first_name, last_name, department_id) VALUES
+--   (1, 'John',  'Doe',     2),
+--   (2, 'Jane',  'Smith',   1),
+--   (3, 'Bob',   'Johnson', 3),
+--   (4, 'Alice', 'Williams',1);
+
+-- DROP TABLE IF EXISTS Employee;
+
+-- Drop old table if exists
+-- Create Departments (if not exists)
+
+
+
+DROP TABLE IF EXISTS Employees;
+DROP TABLE IF EXISTS Departments;
+
+-- Create Departments table
+CREATE TABLE Departments (
+  department_id INT NOT NULL,
+  department_name VARCHAR(100) NOT NULL,
+  PRIMARY KEY (department_id)
+);
+
+-- Insert Departments
+INSERT INTO Departments (department_id, department_name) VALUES
+  (1, 'HR'),
+  (2, 'Engineering'),
+  (3, 'Sales'),
+  (4, 'Marketing'),
+  (5, 'Finance');
+
+-- Create Employees table
+CREATE TABLE Employees (
+  employee_id   INT          NOT NULL,
+  first_name    VARCHAR(100) NOT NULL,
+  last_name     VARCHAR(100) NOT NULL,
+  department_id INT          NOT NULL,
+  PRIMARY KEY (employee_id),
+  CONSTRAINT fk_employees_department
+    FOREIGN KEY (department_id) REFERENCES Departments(department_id)
+    ON UPDATE CASCADE
+    ON DELETE RESTRICT
+);
+
+-- Insert 42 Employees
+INSERT INTO Employees (employee_id, first_name, last_name, department_id) VALUES
+  (1, 'John',     'Doe',       2),
+  (2, 'Jane',     'Smith',     1),
+  (3, 'Bob',      'Johnson',   3),
+  (4, 'Alice',    'Williams',  1),
+  (5, 'Michael',  'Brown',     2),
+  (6, 'Emily',    'Davis',     4),
+  (7, 'Daniel',   'Miller',    3),
+  (8, 'Sarah',    'Wilson',    2),
+  (9, 'David',    'Taylor',    5),
+  (10,'Laura',    'Anderson',  4),
+  (11,'Chris',    'Thomas',    2),
+  (12,'Anna',     'Jackson',   3),
+  (13,'Matthew',  'White',     5),
+  (14,'Olivia',   'Harris',    1),
+  (15,'Ethan',    'Martin',    2),
+  (16,'Sophia',   'Thompson',  3),
+  (17,'James',    'Garcia',    5),
+  (18,'Isabella', 'Martinez',  4),
+  (19,'Benjamin', 'Robinson',  2),
+  (20,'Mia',      'Clark',     1);
+
+
+
+4.
+Write a query to find the top 3 countries by the total number of films rented by customers living in those contries.
+
+Sample Output:
+Country_id	Country	rental_count
+  44		India	1572
+
+Table: actor
+Showing top 5 rows
+
+actor_id	first_name	last_name	last_update
+1	PENELOPE	GUINESS	2006-02-15 04:34:33
+2	NICK	WAHLBERG	2006-02-15 04:34:33
+3	ED	CHASE	2006-02-15 04:34:33
+4	JENNIFER	DAVIS	2006-02-15 04:34:33
+5	JOHNNY	LOLLOBRIGIDA	2006-02-15 04:34:33
+
+Table: address
+Showing top 5 rows
+
+address_id	address	address2	district	city_id	postal_code	phone	last_update
+1	47 Myfilm_rental Drive		Alberta	300			2014-09-25 22:30:27
+2	28 MySQL Boulevard		QLD	576			2014-09-25 22:30:09
+3	23 Workhaven Lane		Alberta	300		14033335568	2014-09-25 22:30:27
+4	1411 Lillydale Drive		QLD	576		6172235589	2014-09-25 22:30:09
+5	1913 Hanoi Way		Nagasaki	463	35200	28303384290	2014-09-25 22:31:53
+
+Table: category
+Showing top 5 rows
+
+category_id	name	last_update
+1	Action	2006-02-15 04:46:27
+2	Animation	2006-02-15 04:46:27
+3	Children	2006-02-15 04:46:27
+4	Classics	2006-02-15 04:46:27
+5	Comedy	2006-02-15 04:46:27
+
+Table: city
+Showing top 5 rows
+
+city_id	city	country_id	last_update
+1	A Coruña (La Coruña)	87	2006-02-15 04:45:25
+2	Abha	82	2006-02-15 04:45:25
+3	Abu Dhabi	101	2006-02-15 04:45:25
+4	Acuña	60	2006-02-15 04:45:25
+5	Adana	97	2006-02-15 04:45:25
+
+Table: country
+Showing top 5 rows
+
+country_id	country	last_update
+1	Afghanistan	2006-02-15 04:44:00
+2	Algeria	2006-02-15 04:44:00
+3	American Samoa	2006-02-15 04:44:00
+4	Angola	2006-02-15 04:44:00
+5	Anguilla	2006-02-15 04:44:00
+
+Table: customer
+Showing top 5 rows
+
+customer_id	store_id	first_name	last_name	email	address_id	active	create_date	last_update
+1	1	MARY	SMITH	MARY.SMITH@film_rentalcustomer.org	5	1	2006-02-14 22:04:36	2006-02-15 04:57:20
+2	1	PATRICIA	JOHNSON	PATRICIA.JOHNSON@film_rentalcustomer.org	6	1	2006-02-14 22:04:36	2006-02-15 04:57:20
+3	1	LINDA	WILLIAMS	LINDA.WILLIAMS@film_rentalcustomer.org	7	1	2006-02-14 22:04:36	2006-02-15 04:57:20
+4	2	BARBARA	JONES	BARBARA.JONES@film_rentalcustomer.org	8	1	2006-02-14 22:04:36	2006-02-15 04:57:20
+5	1	ELIZABETH	BROWN	ELIZABETH.BROWN@film_rentalcustomer.org	9	1	2006-02-14 22:04:36	2006-02-15 04:57:20
+
+Table: film
+Showing top 5 rows
+
+film_id	title	description	release_year	language_id	original_language_id	rental_duration	rental_rate	length	replacement_cost	rating	special_features	last_update
+1	ACADEMY DINOSAUR	A Epic Drama of a Feminist And a Mad Scientist who must Battle a Teacher in The Canadian Rockies	2006	1		6	0.99	86	20.99	PG	Deleted Scenes,Behind the Scenes	2006-02-15 05:03:42
+2	ACE GOLDFINGER	A Astounding Epistle of a Database Administrator And a Explorer who must Find a Car in Ancient China	2006	1		3	4.99	48	12.99	G	Trailers,Deleted Scenes	2006-02-15 05:03:42
+3	ADAPTATION HOLES	A Astounding Reflection of a Lumberjack And a Car who must Sink a Lumberjack in A Baloon Factory	2006	1		7	2.99	50	18.99	NC-17	Trailers,Deleted Scenes	2006-02-15 05:03:42
+4	AFFAIR PREJUDICE	A Fanciful Documentary of a Frisbee And a Lumberjack who must Chase a Monkey in A Shark Tank	2006	1		5	2.99	117	26.99	G	Commentaries,Behind the Scenes	2006-02-15 05:03:42
+5	AFRICAN EGG	A Fast-Paced Documentary of a Pastry Chef And a Dentist who must Pursue a Forensic Psychologist in The Gulf of Mexico	2006	1		6	2.99	130	22.99	G	Deleted Scenes	2006-02-15 05:03:42
+
+Table: film_actor
+Showing top 5 rows
+
+actor_id	film_id	last_update
+1	1	2006-02-15 05:05:03
+1	23	2006-02-15 05:05:03
+1	25	2006-02-15 05:05:03
+1	106	2006-02-15 05:05:03
+1	140	2006-02-15 05:05:03
+
+Table: film_category
+Showing top 5 rows
+
+film_id	category_id	last_update
+1	6	2006-02-15 05:07:09
+2	11	2006-02-15 05:07:09
+3	6	2006-02-15 05:07:09
+4	11	2006-02-15 05:07:09
+5	8	2006-02-15 05:07:09
+
+Table: inventory
+Showing top 5 rows
+
+inventory_id	film_id	store_id	last_update
+1	1	1	2006-02-15 05:09:17
+2	1	1	2006-02-15 05:09:17
+3	1	1	2006-02-15 05:09:17
+4	1	1	2006-02-15 05:09:17
+5	1	2	2006-02-15 05:09:17
+
+Table: language
+Showing top 5 rows
+
+language_id	name	last_update
+1	English	2006-02-15 05:02:19
+2	Italian	2006-02-15 05:02:19
+3	Japanese	2006-02-15 05:02:19
+4	Mandarin	2006-02-15 05:02:19
+5	French	2006-02-15 05:02:19
+
+Table: payment
+Showing top 5 rows
+
+payment_id	customer_id	staff_id	rental_id	amount	payment_date	last_update
+1	1	1	76	2.99	2005-05-25 11:30:37	2006-02-15 22:12:30
+2	1	1	573	0.99	2005-05-28 10:35:23	2006-02-15 22:12:30
+3	1	1	1185	5.99	2005-06-15 00:54:12	2006-02-15 22:12:30
+4	1	2	1422	0.99	2005-06-15 18:02:53	2006-02-15 22:12:30
+5	1	2	1476	9.99	2005-06-15 21:08:46	2006-02-15 22:12:30
+
+Table: rental
+Showing top 5 rows
+
+rental_id	rental_date	inventory_id	customer_id	return_date	staff_id	last_update
+1	2005-05-24 22:53:30	367	130	2005-05-26 22:04:30	1	2006-02-15 21:30:53
+2	2005-05-24 22:54:33	1525	459	2005-05-28 19:40:33	1	2006-02-15 21:30:53
+3	2005-05-24 23:03:39	1711	408	2005-06-01 22:12:39	1	2006-02-15 21:30:53
+4	2005-05-24 23:04:41	2452	333	2005-06-03 01:43:41	2	2006-02-15 21:30:53
+5	2005-05-24 23:05:21	2079	222	2005-06-02 04:33:21	1	2006-02-15 21:30:53
+
+Table: staff
+Showing top 5 rows
+
+staff_id	first_name	last_name	address_id	email	store_id	active	username	last_update
+1	Mike	Hillyer	3	Mike.Hillyer@film_rentalstaff.com	1	1	Mike	2006-02-15 03:57:16
+2	Jon	Stephens	4	Jon.Stephens@film_rentalstaff.com	2	1	Jon	2006-02-15 03:57:16
+
+Table: store
+Showing top 5 rows
+
+store_id	manager_staff_id	address_id	last_update
+1	1	1	2006-02-15 04:57:12
+2	2	2	2006-02-15 04:57:12
+Note: Test your code before submitting the quiz
+
+Solution:
+
+-- Write your query below
+SELECT 
+    co.country_id,
+    co.country,
+    COUNT(r.rental_id) AS rental_count
+FROM country co
+JOIN city ci 
+    ON co.country_id = ci.country_id
+JOIN address a 
+    ON ci.city_id = a.city_id
+JOIN customer cu 
+    ON a.address_id = cu.address_id
+JOIN rental r 
+    ON cu.customer_id = r.customer_id
+GROUP BY co.country_id, co.country
+ORDER BY rental_count DESC
+LIMIT 3;
+
+
+
+5.
+Understanding SQL SELECT statement
+
+We have two tables: Restaurant and Dishes. The Restaurant table contains information about different restaurants, including their names. The Dishes table contains information about various dishes, including their names, prices, and the restaurant belongs to.
+
+Now write a query to retrive all the dishes with their respective prices that belong to the restaurant 'Punjabi Rasoi'.
+
+Sample Output:
+  DishName	Price
+  Dal Makhni	120
+
+
+Table: Restaurant
+Showing top 5 rows
+
+Id	Name
+1	Punjabi Rasoi
+2	Udupi Grand
+3	BBQ nation
+Table: Dishes
+Showing top 5 rows
+
+DishId	DishName	Price	RestaurantId
+1	Dal Makhni	120	1
+2	Sarso Saag	100	1
+3	Tandoori Roti	12	1
+4	Masala Dosa	40	2
+5	Rava Idly	50	2
+Note: Test your code before submitting the quiz
+
+1
+
+-- Write your query below
+Solution:
+
+SELECT d.DishName, d.Price
+FROM Dishes d
+JOIN Restaurant r ON d.RestaurantId = r.Id
+WHERE r.Name = 'Punjabi Rasoi';
+
+
+
+6.
+
+Write a query to determine the top 5 categories by total revenue and compare their average revenues to the overall average revenue of films in the data base.
+
+Sample Output:
+Catagory_id	name	total_revenue	percentage_of_overall_avg_revenue
+15		Sports	5314.21		126.141076
+14		Sci-Fi	4756.98		112.914351
+
+Table: actor
+Showing top 5 rows
+
+actor_id	first_name	last_name	last_update
+1	PENELOPE	GUINESS	2006-02-15 04:34:33
+2	NICK	WAHLBERG	2006-02-15 04:34:33
+3	ED	CHASE	2006-02-15 04:34:33
+4	JENNIFER	DAVIS	2006-02-15 04:34:33
+5	JOHNNY	LOLLOBRIGIDA	2006-02-15 04:34:33
+Table: address
+Showing top 5 rows
+
+address_id	address	address2	district	city_id	postal_code	phone	last_update
+1	47 Myfilm_rental Drive		Alberta	300			2014-09-25 22:30:27
+2	28 MySQL Boulevard		QLD	576			2014-09-25 22:30:09
+3	23 Workhaven Lane		Alberta	300		14033335568	2014-09-25 22:30:27
+4	1411 Lillydale Drive		QLD	576		6172235589	2014-09-25 22:30:09
+5	1913 Hanoi Way		Nagasaki	463	35200	28303384290	2014-09-25 22:31:53
+Table: category
+Showing top 5 rows
+
+category_id	name	last_update
+1	Action	2006-02-15 04:46:27
+2	Animation	2006-02-15 04:46:27
+3	Children	2006-02-15 04:46:27
+4	Classics	2006-02-15 04:46:27
+5	Comedy	2006-02-15 04:46:27
+Table: city
+Showing top 5 rows
+
+city_id	city	country_id	last_update
+1	A Coruña (La Coruña)	87	2006-02-15 04:45:25
+2	Abha	82	2006-02-15 04:45:25
+3	Abu Dhabi	101	2006-02-15 04:45:25
+4	Acuña	60	2006-02-15 04:45:25
+5	Adana	97	2006-02-15 04:45:25
+Table: country
+Showing top 5 rows
+
+country_id	country	last_update
+1	Afghanistan	2006-02-15 04:44:00
+2	Algeria	2006-02-15 04:44:00
+3	American Samoa	2006-02-15 04:44:00
+4	Angola	2006-02-15 04:44:00
+5	Anguilla	2006-02-15 04:44:00
+Table: customer
+Showing top 5 rows
+
+customer_id	store_id	first_name	last_name	email	address_id	active	create_date	last_update
+1	1	MARY	SMITH	MARY.SMITH@film_rentalcustomer.org	5	1	2006-02-14 22:04:36	2006-02-15 04:57:20
+2	1	PATRICIA	JOHNSON	PATRICIA.JOHNSON@film_rentalcustomer.org	6	1	2006-02-14 22:04:36	2006-02-15 04:57:20
+3	1	LINDA	WILLIAMS	LINDA.WILLIAMS@film_rentalcustomer.org	7	1	2006-02-14 22:04:36	2006-02-15 04:57:20
+4	2	BARBARA	JONES	BARBARA.JONES@film_rentalcustomer.org	8	1	2006-02-14 22:04:36	2006-02-15 04:57:20
+5	1	ELIZABETH	BROWN	ELIZABETH.BROWN@film_rentalcustomer.org	9	1	2006-02-14 22:04:36	2006-02-15 04:57:20
+Table: film
+Showing top 5 rows
+
+film_id	title	description	release_year	language_id	original_language_id	rental_duration	rental_rate	length	replacement_cost	rating	special_features	last_update
+1	ACADEMY DINOSAUR	A Epic Drama of a Feminist And a Mad Scientist who must Battle a Teacher in The Canadian Rockies	2006	1		6	0.99	86	20.99	PG	Deleted Scenes,Behind the Scenes	2006-02-15 05:03:42
+2	ACE GOLDFINGER	A Astounding Epistle of a Database Administrator And a Explorer who must Find a Car in Ancient China	2006	1		3	4.99	48	12.99	G	Trailers,Deleted Scenes	2006-02-15 05:03:42
+3	ADAPTATION HOLES	A Astounding Reflection of a Lumberjack And a Car who must Sink a Lumberjack in A Baloon Factory	2006	1		7	2.99	50	18.99	NC-17	Trailers,Deleted Scenes	2006-02-15 05:03:42
+4	AFFAIR PREJUDICE	A Fanciful Documentary of a Frisbee And a Lumberjack who must Chase a Monkey in A Shark Tank	2006	1		5	2.99	117	26.99	G	Commentaries,Behind the Scenes	2006-02-15 05:03:42
+5	AFRICAN EGG	A Fast-Paced Documentary of a Pastry Chef And a Dentist who must Pursue a Forensic Psychologist in The Gulf of Mexico	2006	1		6	2.99	130	22.99	G	Deleted Scenes	2006-02-15 05:03:42
+Table: film_actor
+Showing top 5 rows
+
+actor_id	film_id	last_update
+1	1	2006-02-15 05:05:03
+1	23	2006-02-15 05:05:03
+1	25	2006-02-15 05:05:03
+1	106	2006-02-15 05:05:03
+1	140	2006-02-15 05:05:03
+Table: film_category
+Showing top 5 rows
+
+film_id	category_id	last_update
+1	6	2006-02-15 05:07:09
+2	11	2006-02-15 05:07:09
+3	6	2006-02-15 05:07:09
+4	11	2006-02-15 05:07:09
+5	8	2006-02-15 05:07:09
+Table: inventory
+Showing top 5 rows
+
+inventory_id	film_id	store_id	last_update
+1	1	1	2006-02-15 05:09:17
+2	1	1	2006-02-15 05:09:17
+3	1	1	2006-02-15 05:09:17
+4	1	1	2006-02-15 05:09:17
+5	1	2	2006-02-15 05:09:17
+Table: language
+Showing top 5 rows
+
+language_id	name	last_update
+1	English	2006-02-15 05:02:19
+2	Italian	2006-02-15 05:02:19
+3	Japanese	2006-02-15 05:02:19
+4	Mandarin	2006-02-15 05:02:19
+5	French	2006-02-15 05:02:19
+Table: payment
+Showing top 5 rows
+
+payment_id	customer_id	staff_id	rental_id	amount	payment_date	last_update
+1	1	1	76	2.99	2005-05-25 11:30:37	2006-02-15 22:12:30
+2	1	1	573	0.99	2005-05-28 10:35:23	2006-02-15 22:12:30
+3	1	1	1185	5.99	2005-06-15 00:54:12	2006-02-15 22:12:30
+4	1	2	1422	0.99	2005-06-15 18:02:53	2006-02-15 22:12:30
+5	1	2	1476	9.99	2005-06-15 21:08:46	2006-02-15 22:12:30
+Table: rental
+Showing top 5 rows
+
+rental_id	rental_date	inventory_id	customer_id	return_date	staff_id	last_update
+1	2005-05-24 22:53:30	367	130	2005-05-26 22:04:30	1	2006-02-15 21:30:53
+2	2005-05-24 22:54:33	1525	459	2005-05-28 19:40:33	1	2006-02-15 21:30:53
+3	2005-05-24 23:03:39	1711	408	2005-06-01 22:12:39	1	2006-02-15 21:30:53
+4	2005-05-24 23:04:41	2452	333	2005-06-03 01:43:41	2	2006-02-15 21:30:53
+5	2005-05-24 23:05:21	2079	222	2005-06-02 04:33:21	1	2006-02-15 21:30:53
+Table: staff
+Showing top 5 rows
+
+staff_id	first_name	last_name	address_id	email	store_id	active	username	last_update
+1	Mike	Hillyer	3	Mike.Hillyer@film_rentalstaff.com	1	1	Mike	2006-02-15 03:57:16
+2	Jon	Stephens	4	Jon.Stephens@film_rentalstaff.com	2	1	Jon	2006-02-15 03:57:16
+Table: store
+Showing top 5 rows
+
+store_id	manager_staff_id	address_id	last_update
+1	1	1	2006-02-15 04:57:12
+2	2	2	2006-02-15 04:57:12
+Note: Test your code before submitting the quiz
+
+
+
+7.
+Customers with Both Bank and Crypto Transactions on the Same Day
+
+We have four tables: bank_transactions, bank_accounts, trading_accounts, and crypto_transactions. The bank_transactions table contains information about bank transactions, the bank_accounts table contains information about bank accounts, the trading_accounts table contains information about trading accounts, and the crypto_transactions table contains information about crypto transactions.
+
+Your task is to write a query to determine how many customers have conducted both bank transactions and crypto transactions on the same day.
+
+Sample Output Table(columns):
+TransactionID  BankSenderAccountID  BankReceiverAccountID  PaymentID  BankTransactionType  Amount  TransactionDate  BankAccountID  BankID CustomerID TotalBalence  Status  CreationDate  TradingAccountID  Balance  CryptoSenderAccountID  cryptoReceiverAccountID AssetID CryptoTransactionType Quantity
+
+10233  303052  57898  116  Payment  609.53  2023-02015 21:46:50  306052  32  26621  41686.94  Completed  2023-02015 21:46:50 68832  92897  96708  88  Transfer  34.1
+
+Table: Banks
+Showing top 5 rows
+
+BankID	Name	Domain	Details
+1	Union Bank of Indus (UBI)	Public Sector Banks	Established in 1956, UBI is the biggest public sector bank in Indus and a Fortune 500 company. It offers a multitude of financial services from wealth management to insurance.
+2	Bank of Bardonia (BoBd)	Public Sector Banks	Founded in 1909, Bank of Bardonia is an Indusian multinational, public sector banking and financial services company. It is the fourth largest public sector bank in Indus.
+3	National Bank of Prabhat (NBP)	Public Sector Banks	Established in 1895, NBP is a Banking and Financial service bank owned by the Government of Indus with headquarters in New Delhi, Indus.
+4	Unity Bank of Indus (UBI)	Public Sector Banks	Incepted in 1920, the Unity Bank of Indus is one of the biggest government-owned banks of Indus. It offers services in retail banking, corporate banking and international banking operations.
+5	Karna Bank (KAB)	Public Sector Banks	Founded in 1907, Karna Bank offers retail banking, corporate banking, finance and insurance, mortgage loans, private banking, wealth management, and investment banking.
+
+Table: Customers
+Showing top 5 rows
+
+CustomerID	Name	AccountType
+1	Daniel Huang	Current Account
+12	Jasmine Moore	Deposit Account
+19	Miss Debbie Colon DVM	Savings Account
+56	Tonya Sanchez	Deposit Account
+85	Rebecca Meyer	Recurring Deposit Account
+
+Table: Bank_Accounts
+Showing top 5 rows
+
+BankAccountID	BankID	CustomerID	TotalBalance	Status	CreationDate
+112	22	80513	82951.66	Suspended	2019-07-03
+138	14	16644	95586.62	Active	2019-04-19
+184	31	93667	96541.93	Active	2019-02-07
+190	43	90904	80344.29	Closed	2023-02-19
+259	29	37422	36821.37	Closed	2018-09-08
+
+Table: Branch
+Showing top 5 rows
+
+Code	Name	BankID	State
+UBBH0014526	Butlershire Branch	1	Arunachal Pradesh
+UBBH0088854	East David Branch	1	Assam
+UBBH0010486	New Todd Branch	1	Chhattisgarh
+UBBH0031040	New Brianahaven Branch	1	Goa
+UBBH0092777	South Charleshaven Branch	1	Haryana
+
+Table: Third_Party_Partners
+Showing top 5 rows
+
+ThirdPartyID	Name
+1	Paymet
+2	Gobble Pay
+3	PhonePae
+4	Amazen Pea
+5	BHIM UPII
+
+Table: Crypto_Assets
+Showing top 5 rows
+
+AssetID	Name	MarketCapital
+1	bitcoin	588674000000
+2	ethereum	232065000000
+3	tether	83662015389
+4	ripple	39126546243
+5	binancecoin	38727820590
+
+Table: Trading_Platforms
+Showing top 5 rows
+
+PlatformID	Name
+1	Fedelity
+2	Interactiva Brokers
+3	OKYex
+4	Upstock
+5	eTorro
+
+Table: Registered_Partners
+Showing top 5 rows
+
+PartnerID	ThirdPartyID	BankID
+1	1	1
+2	1	2
+3	1	3
+4	1	4
+5	1	5
+
+Table: Payment_Modes
+Showing top 5 rows
+
+PaymentID	PartnerID	TransactionType
+1	1	UPI
+2	1	Internet Banking
+3	1	Debit Card
+4	2	Internet Banking
+5	2	Wallet
+
+Table: Bank_Transactions
+Showing top 5 rows
+
+TransactionID	BankSenderAccountID	BankReceiverAccountID	PaymentID	BankTransactionType	Amount	TransactionDate
+149	465611	458529	159	Transfer	44.03	2022-07-19 00:53:22
+226	77450	363422	147	Transfer	25.82	2022-12-28 19:58:45
+399	176493	49367	110	Transfer	263.28	2023-04-24 13:17:35
+416	354677	62543	141	Transfer	678.46	2023-07-02 14:52:22
+476	265256	238347	167	Payment	561.43	2023-07-10 20:49:51
+
+Table: Loans
+Showing top 5 rows
+
+LoanID	BankAccountID	LoanType	Amount	Status	SanctionedDate	DueDate	LastPaymentDate
+1546	157	Education Loan	68422	Defaulted	2020-06-15	2024-03-13	2020-06-18
+31093	451	Business Loan	24449	Closed	2020-12-20	2024-09-16	2020-12-20
+35977	674	Home Loan	84957	Defaulted	2022-11-15	2028-02-24	2022-11-23
+4320	773	Personal Loan	84328	Inactive	2022-07-14	2023-05-09	2022-07-19
+3802	931	Business Loan	35705	Inactive	2020-02-14	2026-07-12	2020-02-20
+
+Table: Trading_Accounts
+Showing top 5 rows
+
+TradingAccountID	BankAccountID	CreationDate	Balance
+346263	24	2019-09-13 03:45	67953
+91700	35	2021-10-03 14:23	7342
+102165	113	2022-05-22 12:06	33855
+217023	184	2023-06-18 07:00	16502
+38887	243	2022-09-08 03:33	42674
+Table: Registered_Platforms
+Showing top 5 rows
+
+RegisteredID	TradingAccountID	PlatformID	AssetID	RegistrationDate	Availability
+6	158407	9	84	2023-05-25	Available
+14	136161	1	64	2022-10-15	Available
+15	271471	20	21	2023-03-10	Available
+19	164172	14	57	2023-03-05	Available
+21	60457	25	72	2022-09-18	Available
+
+Table: Trading_Transactions
+Showing top 5 rows
+
+TransactionID	RegisteredID	PaymentID	TransactionType	Quantity	TransactionDate	Status
+8038	9	82	Buy	1.08	2023-02-05 16:29:04	Completed
+74112	19	169	Buy	73.18	2023-05-03 16:30:52	Failed
+127010	55	114	Buy	47.03	2023-05-31 21:44:56	Completed
+53799	71	132	Buy	67.93	2023-05-16 18:48:15	Completed
+60589	88	14	Buy	90.37	2023-05-24 21:04:55	Completed
+
+Table: Crypto_Transactions
+Showing top 5 rows
+
+TransactionID	CryptoSenderAccountID	CryptoReceiverAccountID	AssetID	CryptoTransactionType	Quantity	TransactionDate	Status
+44	84416	51879	21	Payment	37.97	2022-08-15 12:23:32	Completed
+201	64442	26774	9	Payment	93.59	2022-08-12 06:04:55	Completed
+267	80043	15347	77	Transfer	86.74	2022-10-26 16:27:44	Completed
+333	18539	41189	76	Transfer	95.91	2022-10-14 12:50:26	Pending
+360	10953	38704	89	Transfer	87.04	2023-03-02 22:20:31	Failed
+Note: Test your code before submitting the quiz
+
+1
+-- Write your query below 
+
+8.
+Find the top 3 customers with the highest total transactions amount for each city. Details are give below.
+
+Tables:
+
+1. Customers
+	- customerID
+	- Name
+	- City
+2. Accounts
+	- AccountID
+	- CustomerID
+	- AccountType
+	- Balance
+3. Transactions
+	- TransactionID
+	- AccountID
+	- TransactionDate
+	- Amount
+
+Table: Customers
+Showing top 5 rows
+
+CustomerID	Name	City
+1	Alice	New York
+2	Bob	Los Angeles
+3	Charlie	Chicago
+4	David	New York
+5	Eve	Los Angeles
+
+Table: Accounts
+Showing top 5 rows
+
+AccountID	CustomerID	AccountType	Balance
+1	1	Checking	5000
+2	2	Savings	3000
+3	3	Checking	7000
+4	4	Savings	6000
+5	5	Checking	4000
+
+Table: Transactions
+Showing top 5 rows
+
+TransactionID	AccountID	TransactionDate	Amount
+1	1	2024-01-10	150
+2	1	2024-02-14	200
+3	2	2024-03-05	300
+4	2	2024-04-22	250
+5	3	2024-05-18	400
+Note: Test your code before submitting the quiz
+
+12
+-- Write your query here
+
+
+9.
+You have two tables, orders and customers, with the following structurs:
+1. orders table:
+	- order_id(integer): The unique identifier for each order.
+	- customer_id(integer) : The unique identifier for each customer.
+	- order_date(date) : The date when the order was placed.
+	- amount(decimal): The total amount of the order.
+2. customers table:
+	- customer_id(integer) : The unique identifier for each customer.
+	- customer_name(varchar): The name of the customer.
+	- city(varchar): the city where the customer resides.
+
+Write an SQL query to find the top 3 customers by total order amount in 2023 and list their names, total order amounts, and the number of orders they placed. Ensure the results are ordered by the total order amount in descending order.
+
+Table: customers
+Showing top 5 rows
+
+customer_id	customer_name	city
+1	Alice Johnson	New York
+2	Bob Smith	Los Angeles
+3	Charlie Davis	Chicago
+4	David Harris	Houston
+5	Eva Brown	Phoenix
+Table: orders
+Showing top 5 rows
+
+order_id	customer_id	order_date	amount
+101	1	2023-01-15	150
+102	2	2023-02-20	200
+103	3	2023-03-05	300
+104	4	2023-04-12	400
+105	5	2023-05-18	250
+Note: Test your code before submitting the quiz
+
+
+10.
